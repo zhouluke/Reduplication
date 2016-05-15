@@ -1,0 +1,1120 @@
+3grammed/CA - ALMONTE/atollan_2.txt
+3grammed/CA - ALMONTE/bgellert_2.txt
+3grammed/CA - ALMONTE/bmuldoon-F_2.txt
+3grammed/CA - ALMONTE/bmuldoon-M_2.txt
+3grammed/CA - ALMONTE/breilly_3.txt
+3grammed/CA - ALMONTE/brierdon_2.txt
+3grammed/CA - ALMONTE/bthickson_2.txt
+3grammed/CA - ALMONTE/btollan_2.txt
+3grammed/CA - ALMONTE/bwalsh_2.txt
+3grammed/CA - ALMONTE/cgellert_2.txt
+3grammed/CA - ALMONTE/cmcguin_2.txt
+3grammed/CA - ALMONTE/ctollan_2.txt
+3grammed/CA - ALMONTE/cwalsh_2.txt
+3grammed/CA - ALMONTE/dbarnes_73.txt
+3grammed/CA - ALMONTE/dbest_2.txt
+3grammed/CA - ALMONTE/dlegrange_2.txt
+3grammed/CA - ALMONTE/earkwright_2.txt
+3grammed/CA - ALMONTE/emanore_2.txt
+3grammed/CA - ALMONTE/etollan_2.txt
+3grammed/CA - ALMONTE/evetch_2.txt
+3grammed/CA - ALMONTE/gayles_2.txt
+3grammed/CA - ALMONTE/gfreidman_2.txt
+3grammed/CA - ALMONTE/jlovatt_3.txt
+3grammed/CA - ALMONTE/jmoyles-F-2.txt
+3grammed/CA - ALMONTE/jmoyles-M_2.txt
+3grammed/CA - ALMONTE/jmuldoon_2.txt
+3grammed/CA - ALMONTE/klaguin_2.txt
+3grammed/CA - ALMONTE/kmanore_2.txt
+3grammed/CA - ALMONTE/kstone_2.txt
+3grammed/CA - ALMONTE/ldinkin_2.txt
+3grammed/CA - ALMONTE/ldraper_2.txt
+3grammed/CA - ALMONTE/lmoyles_2.txt
+3grammed/CA - ALMONTE/lthicksson_2.txt
+3grammed/CA - ALMONTE/lwyles_2.txt
+3grammed/CA - ALMONTE/mcartwright_2.txt
+3grammed/CA - ALMONTE/mcrowley_2.txt
+3grammed/CA - ALMONTE/mmuldoon_2.txt
+3grammed/CA - ALMONTE/moirathicksson_3.txt
+3grammed/CA - ALMONTE/murielthickson_2.txt
+3grammed/CA - ALMONTE/nwarner_3.txt
+3grammed/CA - ALMONTE/rbrownwood_2.txt
+3grammed/CA - ALMONTE/rcraymore_3.txt
+3grammed/CA - ALMONTE/rmckinnon_2.txt
+3grammed/CA - ALMONTE/rmoyles_2.txt
+3grammed/CA - ALMONTE/twalsh_2.txt
+3grammed/CA - ALMONTE/vmanore_2.txt
+3grammed/CA - ALMONTE/wmackinnon_2.txt
+3grammed/CA - Beaverton/ablack_2.txt
+3grammed/CA - Beaverton/amacdougall_2.txt
+3grammed/CA - Beaverton/amcdowell_2.txt
+3grammed/CA - Beaverton/bjparker_2.txt
+3grammed/CA - Beaverton/breed_2.txt
+3grammed/CA - Beaverton/cgallaway_2.txt
+3grammed/CA - Beaverton/cmrwilson_2.txt
+3grammed/CA - Beaverton/cpewter_2.txt
+3grammed/CA - Beaverton/dmackaw_2.txt
+3grammed/CA - Beaverton/dmcphee_2.txt
+3grammed/CA - Beaverton/drobinson_2.txt
+3grammed/CA - Beaverton/gblack_2.txt
+3grammed/CA - Beaverton/gmatheson_2.txt
+3grammed/CA - Beaverton/hbouclaire_2.txt
+3grammed/CA - Beaverton/hfurley_2.txt
+3grammed/CA - Beaverton/ifranklin_2.txt
+3grammed/CA - Beaverton/jdean_2.txt
+3grammed/CA - Beaverton/jlaidlaw_2.txt
+3grammed/CA - Beaverton/jlippman_2.txt
+3grammed/CA - Beaverton/kross_2.txt
+3grammed/CA - Beaverton/ldeanreynolds_2.txt
+3grammed/CA - Beaverton/lfarley_2.txt
+3grammed/CA - Beaverton/lhubbert_2.txt
+3grammed/CA - Beaverton/mcarmichael_2.txt
+3grammed/CA - Beaverton/mhiggins_2.txt
+3grammed/CA - Beaverton/mtimmins_2.txt
+3grammed/CA - Beaverton/rfletcher_2.txt
+3grammed/CA - Beaverton/rlenderville_2.txt
+3grammed/CA - Beaverton/rmiller_2.txt
+3grammed/CA - Beaverton/rreed_2.txt
+3grammed/CA - Beaverton/rwatkins_2.txt
+3grammed/CA - Beaverton/sfarley_2.txt
+3grammed/CA - Beaverton/sgarson_2.txt
+3grammed/CA - Beaverton/syerkie_2.txt
+3grammed/CA - Beaverton/tclapman_2.txt
+3grammed/CA - Beaverton/tdeanreynolds_2.txt
+3grammed/CA - Beaverton/tmanley_2.txt
+3grammed/CA - BELLEVILLE 07-08/bboyd2_2.txt
+3grammed/CA - BELLEVILLE 07-08/bboyd_2.txt
+3grammed/CA - BELLEVILLE 07-08/bcaldwell_2.txt
+3grammed/CA - BELLEVILLE 07-08/bgilbert_2.txt
+3grammed/CA - BELLEVILLE 07-08/blaurel_2.txt
+3grammed/CA - BELLEVILLE 07-08/bpreston_2.txt
+3grammed/CA - BELLEVILLE 07-08/cshaw_2.txt
+3grammed/CA - BELLEVILLE 07-08/cslade_2.txt
+3grammed/CA - BELLEVILLE 07-08/dbelding_2.txt
+3grammed/CA - BELLEVILLE 07-08/dknell_2.txt
+3grammed/CA - BELLEVILLE 07-08/eboyd_2.txt
+3grammed/CA - BELLEVILLE 07-08/gdalton_2.txt
+3grammed/CA - BELLEVILLE 07-08/jdaniels_2.txt
+3grammed/CA - BELLEVILLE 07-08/jdowell_2.txt
+3grammed/CA - BELLEVILLE 07-08/jhastings_2.txt
+3grammed/CA - BELLEVILLE 07-08/jluis_2.txt
+3grammed/CA - BELLEVILLE 07-08/jschellden_2.txt
+3grammed/CA - BELLEVILLE 07-08/jwatson-M_2.txt
+3grammed/CA - BELLEVILLE 07-08/kmarch_2.txt
+3grammed/CA - BELLEVILLE 07-08/lastewart_2.txt
+3grammed/CA - BELLEVILLE 07-08/lhoward_2.txt
+3grammed/CA - BELLEVILLE 07-08/lperry_2.txt
+3grammed/CA - BELLEVILLE 07-08/lschiper_2.txt
+3grammed/CA - BELLEVILLE 07-08/merwin_2.txt
+3grammed/CA - BELLEVILLE 07-08/mmcmichaels_2.txt
+3grammed/CA - BELLEVILLE 07-08/mwinters_2.txt
+3grammed/CA - BELLEVILLE 07-08/pbrown-F_2.txt
+3grammed/CA - BELLEVILLE 07-08/pbrown-M_2.txt
+3grammed/CA - BELLEVILLE 07-08/pmorris_2.txt
+3grammed/CA - BELLEVILLE 07-08/rbarker_2.txt
+3grammed/CA - BELLEVILLE 07-08/rburton_2.txt
+3grammed/CA - BELLEVILLE 07-08/rpowell_2.txt
+3grammed/CA - BELLEVILLE 07-08/sbramhall_2.txt
+3grammed/CA - BELLEVILLE 07-08/shachie_2.txt
+3grammed/CA - BELLEVILLE 07-08/tbowers_2.txt
+3grammed/CA - BELLEVILLE 07-08/tshaw_2.txt
+3grammed/CA - BELLEVILLE 07-08/vhawkins_2.txt
+3grammed/CA - BELLEVILLE 07-08/wwalters_2.txt
+3grammed/CA - BELLEVILLE 75 - IPR/aduffy_2.txt
+3grammed/CA - BELLEVILLE 75 - IPR/agorden_2.txt
+3grammed/CA - BELLEVILLE 75 - IPR/aholgate_2.txt
+3grammed/CA - BELLEVILLE 75 - IPR/bhurst_2.txt
+3grammed/CA - BELLEVILLE 75 - IPR/cwright_2.txt
+3grammed/CA - BELLEVILLE 75 - IPR/fcarscallen_2.txt
+3grammed/CA - BELLEVILLE 75 - IPR/fpatterson_2.txt
+3grammed/CA - BELLEVILLE 75 - IPR/gbraidwood_2.txt
+3grammed/CA - BELLEVILLE 75 - IPR/hmott_2.txt
+3grammed/CA - BELLEVILLE 75 - IPR/iweir_2.txt
+3grammed/CA - BELLEVILLE 75 - IPR/jbraidwood_2.txt
+3grammed/CA - BELLEVILLE 75 - IPR/jgeen_2.txt
+3grammed/CA - BELLEVILLE 75 - IPR/jmcintosh_2.txt
+3grammed/CA - BELLEVILLE 75 - IPR/jmckenna_2.txt
+3grammed/CA - BELLEVILLE 75 - IPR/jnichols_2.txt
+3grammed/CA - BELLEVILLE 75 - IPR/lelliot_2.txt
+3grammed/CA - BELLEVILLE 75 - IPR/lhurst_2.txt
+3grammed/CA - BELLEVILLE 75 - IPR/mclark_2.txt
+3grammed/CA - BELLEVILLE 75 - IPR/mrboldrick_2.txt
+3grammed/CA - BELLEVILLE 75 - IPR/mrsfields_2.txt
+3grammed/CA - BELLEVILLE 75 - IPR/mrsmcguiness_2.txt
+3grammed/CA - BELLEVILLE 75 - IPR/mr_wright_2.txt
+3grammed/CA - BELLEVILLE 75 - IPR/npeck_2.txt
+3grammed/CA - BELLEVILLE 75 - IPR/owessman_2.txt
+3grammed/CA - BELLEVILLE 75 - IPR/swessman_2.txt
+3grammed/CA - BELLEVILLE 75 - IPR/twills_0.txt
+3grammed/CA - BELLEVILLE 75 - IPR/vweir_2.txt
+3grammed/CA - BURNT RIVER/abrighton_2.txt
+3grammed/CA - BURNT RIVER/agilmore_2.txt
+3grammed/CA - BURNT RIVER/agrier_2.txt
+3grammed/CA - BURNT RIVER/cgilmore_2.txt
+3grammed/CA - BURNT RIVER/egilmore_2.txt
+3grammed/CA - BURNT RIVER/jbrighton_2.txt
+3grammed/CA - BURNT RIVER/jdillan_2.txt
+3grammed/CA - BURNT RIVER/jthompson1_2.txt
+3grammed/CA - BURNT RIVER/jthompson2_2.txt
+3grammed/CA - BURNT RIVER/lmcgowan_2.txt
+3grammed/CA - BURNT RIVER/lthompson_2.txt
+3grammed/CA - BURNT RIVER/lwillson_2.txt
+3grammed/CA - BURNT RIVER/mgilmore_2.txt
+3grammed/CA - BURNT RIVER/pgilmore_2.txt
+3grammed/CA - BURNT RIVER/rhodges_2.txt
+3grammed/CA - BURNT RIVER/sgordon_2.txt
+3grammed/CA - BURNT RIVER/sthompson_2.txt
+3grammed/CA - BURNT RIVER/swillson_2.txt
+3grammed/CA - CHINESE/achan_2.txt
+3grammed/CA - CHINESE/alau_2.txt
+3grammed/CA - CHINESE/bchoy_2.txt
+3grammed/CA - CHINESE/cchiu_2.txt
+3grammed/CA - CHINESE/dchia_2.txt
+3grammed/CA - CHINESE/dleung_2.txt
+3grammed/CA - CHINESE/eyi_2.txt
+3grammed/CA - CHINESE/gluo_2.txt
+3grammed/CA - CHINESE/gmurong_2.txt
+3grammed/CA - CHINESE/hwang_2.txt
+3grammed/CA - CHINESE/ikan_2.txt
+3grammed/CA - CHINESE/jcheung_2.txt
+3grammed/CA - CHINESE/jchia_2.txt
+3grammed/CA - CHINESE/jkawii_2.txt
+3grammed/CA - CHINESE/jyang_2.txt
+3grammed/CA - CHINESE/kcheng_2.txt
+3grammed/CA - CHINESE/kdoyle_2.txt
+3grammed/CA - CHINESE/klou_2.txt
+3grammed/CA - CHINESE/lplu_2.txt
+3grammed/CA - CHINESE/lyin_2.txt
+3grammed/CA - CHINESE/mcao_2.txt
+3grammed/CA - CHINESE/mlau_2.txt
+3grammed/CA - CHINESE/mling2_2.txt
+3grammed/CA - CHINESE/nchiu_2.txt
+3grammed/CA - CHINESE/rhong_2.txt
+3grammed/CA - CHINESE/rtai_2.txt
+3grammed/CA - CHINESE/swai-F_2.txt
+3grammed/CA - CHINESE/swai-M_2.txt
+3grammed/CA - CHINESE/tlei_2.txt
+3grammed/CA - CHINESE/tluo_2.txt
+3grammed/CA - CHINESE/tyao_2.txt
+3grammed/CA - CLARA/cfelipe_16.txt
+3grammed/CA - CLARA/cfelipe_17.txt
+3grammed/CA - CLARA/cfelipe_18.txt
+3grammed/CA - CLARA/cfelipe_19.txt
+3grammed/CA - CLARA/cfelipe_20.txt
+3grammed/CA - CLARA/cfelipe_21.txt
+3grammed/CA - CLARA/cfelipe_22.txt
+3grammed/CA - CLARA/cfelipe_24.txt
+3grammed/CA - CLARA/cfelipe_25.txt
+3grammed/CA - CLARA/cfelipe_27.txt
+3grammed/CA - CLARA/cfelipe_28.txt
+3grammed/CA - DOWLING-IPR/alinville_2.txt
+3grammed/CA - DOWLING-IPR/cmarvin_2.txt
+3grammed/CA - DOWLING-IPR/dwilliams_2.txt
+3grammed/CA - DOWLING-IPR/hmacbain_2.txt
+3grammed/CA - DOWLING-IPR/lbailey-2_2.txt
+3grammed/CA - DOWLING-IPR/lbailey-3_2.txt
+3grammed/CA - DOWLING-IPR/lbailey-4_2.txt
+3grammed/CA - DOWLING-IPR/lbailey_2.txt
+3grammed/CA - DOWLING-IPR/rkirk_2.txt
+3grammed/CA - DOWLING-IPR/sjanvier_2.txt
+3grammed/CA - DOWLING-IPR/tbailey-F_2.txt
+3grammed/CA - DOWLING-IPR/tbailey-M_2.txt
+3grammed/CA - DOWLING-IPR/vcraig-1_2.txt
+3grammed/CA - DOWLING-IPR/vcraig-2_2.txt
+3grammed/CA - GLBQ ROP 2006/aburton_2.txt
+3grammed/CA - GLBQ ROP 2006/acastillo_2.txt
+3grammed/CA - GLBQ ROP 2006/bremmington_2.txt
+3grammed/CA - GLBQ ROP 2006/bsantino_2.txt
+3grammed/CA - GLBQ ROP 2006/cadavidson_2.txt
+3grammed/CA - GLBQ ROP 2006/cming_2.txt
+3grammed/CA - GLBQ ROP 2006/gparkinson_2.txt
+3grammed/CA - GLBQ ROP 2006/gsimkovic_2.txt
+3grammed/CA - GLBQ ROP 2006/jparkins_2.txt
+3grammed/CA - GLBQ ROP 2006/lwelsby_2.txt
+3grammed/CA - GLBQ ROP 2006/mbeaulieu_2.txt
+3grammed/CA - GLBQ ROP 2006/mdubrovnik_2.txt
+3grammed/CA - GLBQ ROP 2006/pcastillo_2.txt
+3grammed/CA - GLBQ ROP 2006/rhanson_2.txt
+3grammed/CA - GLBQ ROP 2006/sdubrovnik_2.txt
+3grammed/CA - GLBQ ROP 2006/sermak_2.txt
+3grammed/CA - GLBQ ROP 2006/vwilloughby_2.txt
+3grammed/CA - HALIBURTON/amarch_2.txt
+3grammed/CA - HALIBURTON/bbower_2.txt
+3grammed/CA - HALIBURTON/bdailey_2.txt
+3grammed/CA - HALIBURTON/bhenderson_2.txt
+3grammed/CA - HALIBURTON/bnewman_2.txt
+3grammed/CA - HALIBURTON/cdraycott_2.txt
+3grammed/CA - HALIBURTON/dcater_2.txt
+3grammed/CA - HALIBURTON/djordans_2.txt
+3grammed/CA - HALIBURTON/dpaul_2.txt
+3grammed/CA - HALIBURTON/ebath_2.txt
+3grammed/CA - HALIBURTON/ecormack-F_2.txt
+3grammed/CA - HALIBURTON/ecormack-M_2.txt
+3grammed/CA - HALIBURTON/gtyndall_2.txt
+3grammed/CA - HALIBURTON/hcliff_2.txt
+3grammed/CA - HALIBURTON/hnewman_2.txt
+3grammed/CA - HALIBURTON/iwallace_2.txt
+3grammed/CA - HALIBURTON/jmcrae_2.txt
+3grammed/CA - HALIBURTON/jrosborough-2_2.txt
+3grammed/CA - HALIBURTON/jrosborough-3_2.txt
+3grammed/CA - HALIBURTON/jrosborough_2.txt
+3grammed/CA - HALIBURTON/kevans_2.txt
+3grammed/CA - HALIBURTON/ktyrell_2.txt
+3grammed/CA - HALIBURTON/lblake_2.txt
+3grammed/CA - HALIBURTON/lhepburn_2.txt
+3grammed/CA - HALIBURTON/lhogan_2.txt
+3grammed/CA - HALIBURTON/mmay_2.txt
+3grammed/CA - HALIBURTON/mrosborough_2.txt
+3grammed/CA - HALIBURTON/rbath_2.txt
+3grammed/CA - HALIBURTON/sbradshaw_2.txt
+3grammed/CA - HALIBURTON/sjordan_2.txt
+3grammed/CA - HALIBURTON/swarren_2.txt
+3grammed/CA - HALIBURTON/thope_2.txt
+3grammed/CA - HALIBURTON/wadamson_2.txt
+3grammed/CA - HALIBURTON WAR BRIDES/amclean_2.txt
+3grammed/CA - HALIBURTON WAR BRIDES/bireland_2.txt
+3grammed/CA - HALIBURTON WAR BRIDES/emurchison_2.txt
+3grammed/CA - HALIBURTON WAR BRIDES/mpaston_2.txt
+3grammed/CA - KIRKLAND LAKE/acorbiere_2.txt
+3grammed/CA - KIRKLAND LAKE/ahannock_2.txt
+3grammed/CA - KIRKLAND LAKE/amarshall_2.txt
+3grammed/CA - KIRKLAND LAKE/bbarnes_2.txt
+3grammed/CA - KIRKLAND LAKE/bhunter_2.txt
+3grammed/CA - KIRKLAND LAKE/bkennedy_2.txt
+3grammed/CA - KIRKLAND LAKE/bleblanc_2.txt
+3grammed/CA - KIRKLAND LAKE/bmorrow_2.txt
+3grammed/CA - KIRKLAND LAKE/bomalley_2.txt
+3grammed/CA - KIRKLAND LAKE/bpicard_2.txt
+3grammed/CA - KIRKLAND LAKE/cbloch_2.txt
+3grammed/CA - KIRKLAND LAKE/ccross_2.txt
+3grammed/CA - KIRKLAND LAKE/cmackey_2.txt
+3grammed/CA - KIRKLAND LAKE/cobrien_2.txt
+3grammed/CA - KIRKLAND LAKE/cstarke_2.txt
+3grammed/CA - KIRKLAND LAKE/cyates_2.txt
+3grammed/CA - KIRKLAND LAKE/ddamico_2.txt
+3grammed/CA - KIRKLAND LAKE/ddonovan_2.txt
+3grammed/CA - KIRKLAND LAKE/dhannock_2.txt
+3grammed/CA - KIRKLAND LAKE/dpaglia_2.txt
+3grammed/CA - KIRKLAND LAKE/eharvey_2.txt
+3grammed/CA - KIRKLAND LAKE/elord_2.txt
+3grammed/CA - KIRKLAND LAKE/eregan_2-1.txt
+3grammed/CA - KIRKLAND LAKE/eregan_2-2.txt
+3grammed/CA - KIRKLAND LAKE/erousseau_2.txt
+3grammed/CA - KIRKLAND LAKE/fmorley_2.txt
+3grammed/CA - KIRKLAND LAKE/gmulligan_2.txt
+3grammed/CA - KIRKLAND LAKE/gstephens_2.txt
+3grammed/CA - KIRKLAND LAKE/hkreilich_2.txt
+3grammed/CA - KIRKLAND LAKE/imcfarlane_2.txt
+3grammed/CA - KIRKLAND LAKE/jandrews_2.txt
+3grammed/CA - KIRKLAND LAKE/jdixon_2.txt
+3grammed/CA - KIRKLAND LAKE/jmahoney_2.txt
+3grammed/CA - KIRKLAND LAKE/jmudge_2.txt
+3grammed/CA - KIRKLAND LAKE/jregan_2.txt
+3grammed/CA - KIRKLAND LAKE/kdupuis_2.txt
+3grammed/CA - KIRKLAND LAKE/keveringham_2.txt
+3grammed/CA - KIRKLAND LAKE/kpollock_2.txt
+3grammed/CA - KIRKLAND LAKE/kszucks_2.txt
+3grammed/CA - KIRKLAND LAKE/lkreilich_2.txt
+3grammed/CA - KIRKLAND LAKE/lrandazzo_2.txt
+3grammed/CA - KIRKLAND LAKE/lsweeney_2.txt
+3grammed/CA - KIRKLAND LAKE/malder_2.txt
+3grammed/CA - KIRKLAND LAKE/mallain_2.txt
+3grammed/CA - KIRKLAND LAKE/mfenchurch_2.txt
+3grammed/CA - KIRKLAND LAKE/mkiszka_2.txt
+3grammed/CA - KIRKLAND LAKE/mmclellan_2.txt
+3grammed/CA - KIRKLAND LAKE/mregan_2.txt
+3grammed/CA - KIRKLAND LAKE/msullivan_2.txt
+3grammed/CA - KIRKLAND LAKE/mwalton_2.txt
+3grammed/CA - KIRKLAND LAKE/nmorrow_2.txt
+3grammed/CA - KIRKLAND LAKE/pforsanto_2.txt
+3grammed/CA - KIRKLAND LAKE/rcheshire_2.txt
+3grammed/CA - KIRKLAND LAKE/rdrake_2.txt
+3grammed/CA - KIRKLAND LAKE/rholland_2.txt
+3grammed/CA - KIRKLAND LAKE/rmurphey_2.txt
+3grammed/CA - KIRKLAND LAKE/sgene_2.txt
+3grammed/CA - KIRKLAND LAKE/sgervais_2.txt
+3grammed/CA - KIRKLAND LAKE/shope_2.txt
+3grammed/CA - KIRKLAND LAKE/slavelle_2.txt
+3grammed/CA - KIRKLAND LAKE/smackey_2.txt
+3grammed/CA - KIRKLAND LAKE/smcglynn_2.txt
+3grammed/CA - KIRKLAND LAKE/snovak_2.txt
+3grammed/CA - KIRKLAND LAKE/swarden_2.txt
+3grammed/CA - KIRKLAND LAKE/swetstein_2.txt
+3grammed/CA - KIRKLAND LAKE/tbickley_2.txt
+3grammed/CA - KIRKLAND LAKE/tirons_2.txt
+3grammed/CA - KIRKLAND LAKE/tklinke_2.txt
+3grammed/CA - KIRKLAND LAKE/tmisko_2.txt
+3grammed/CA - KIRKLAND LAKE/tskarsgard_2.txt
+3grammed/CA - LAKEFIELD/bburke_2-2.txt
+3grammed/CA - LAKEFIELD/bburke_2.txt
+3grammed/CA - LAKEFIELD/gpatry_2.txt
+3grammed/CA - LAKEFIELD/gwashington_2-2.txt
+3grammed/CA - LAKEFIELD/gwashington_2.txt
+3grammed/CA - LAKEFIELD/hpdoyle_2.txt
+3grammed/CA - LAKEFIELD/jponce_2.txt
+3grammed/CA - LAKEFIELD/kpatry_2.txt
+3grammed/CA - LAKEFIELD/kponce_2.txt
+3grammed/CA - LAKEFIELD/kscott_2.txt
+3grammed/CA - LAKEFIELD/mproust_2.txt
+3grammed/CA - LAKEFIELD/nwashington_2.txt
+3grammed/CA - LAKEFIELD/rburke_2-2.txt
+3grammed/CA - LAKEFIELD/rburke_2.txt
+3grammed/CA - LAKEFIELD/wdoyle_2.txt
+3grammed/CA - LIN399/abailey_2.txt
+3grammed/CA - LIN399/lbaxter_2.txt
+3grammed/CA - LIN399/rgumesh_2.txt
+3grammed/CA - LIN399/sgaram_2.txt
+3grammed/CA - LSOV - IPR/0101229_2-asteubens_2.txt
+3grammed/CA - LSOV - IPR/0101299_3-ssteubens_2.txt
+3grammed/CA - LSOV - IPR/0101299_4-esteubens_2.txt
+3grammed/CA - LSOV - IPR/0101299_5_smcclafferty_2.txt
+3grammed/CA - LSOV - IPR/0101299_6-astarz_2.txt
+3grammed/CA - LSOV - IPR/0101299_7-koldman_2.txt
+3grammed/CA - LSOV - IPR/0302100_1-emartain_2.txt
+3grammed/CA - LSOV - IPR/0402314_1-hmcniles_2.txt
+3grammed/CA - LSOV - IPR/0402314_3-rdunholm_2.txt
+3grammed/CA - LSOV - IPR/0402314_4-rbuller_2.txt
+3grammed/CA - LSOV - IPR/0402399_1-mdonaldson_2.txt
+3grammed/CA - LSOV - IPR/0402399_2-mstringer_2.txt
+3grammed/CA - LSOV - IPR/0402399_3-jmarshall_2.txt
+3grammed/CA - LSOV - IPR/0402799_3-warkwright_2.txt
+3grammed/CA - LSOV - IPR/0402800_1-afalsham_2.txt
+3grammed/CA - LSOV - IPR/0402999_1-mwarner_2.txt
+3grammed/CA - LSOV - IPR/0402999_2-wcraik_2.txt
+3grammed/CA - LSOV - IPR/0402999_3-ayale_2.txt
+3grammed/CA - LSOV - IPR/0402999_5-meckersley_2.txt
+3grammed/CA - LSOV - IPR/0402999_6-amilford_2.txt
+3grammed/CA - LSOV - IPR/0403299_1-rgrenville_2.txt
+3grammed/CA - LSOV - IPR/0403299_2-jharrington_2.txt
+3grammed/CA - LSOV - IPR/0403299_4-mcarson_2.txt
+3grammed/CA - LSOV - IPR/0804999-1-tspencer_2.txt
+3grammed/CA - LSOV - IPR/0804999_4-kbranson_3.txt
+3grammed/CA - LSOV - IPR/0805200_1-lstewart_2.txt
+3grammed/CA - LSOV - IPR/0805200_3-eashford_2.txt
+3grammed/CA - LSOV - IPR/Partials-need to be pseudonymed/0402999_4-jmackinsey_1-TO 11min14sec.txt
+3grammed/CA - LSOV - IPR/Partials-need to be pseudonymed/0403299_3-mmacdougall_1-TO 39min24sec.txt
+3grammed/CA - NORTH BAY/amcdougall_2.txt
+3grammed/CA - NORTH BAY/aquisano_2.txt
+3grammed/CA - NORTH BAY/bgrant_2.txt
+3grammed/CA - NORTH BAY/cboucher_2.txt
+3grammed/CA - NORTH BAY/cmcdougall_2.txt
+3grammed/CA - NORTH BAY/cmclean_2.txt
+3grammed/CA - NORTH BAY/csaunders_2.txt
+3grammed/CA - NORTH BAY/ddaniels_2.txt
+3grammed/CA - NORTH BAY/dmorrison_2.txt
+3grammed/CA - NORTH BAY/dpeters_2.txt
+3grammed/CA - NORTH BAY/jlunche_2.txt
+3grammed/CA - NORTH BAY/jmerrick_2.txt
+3grammed/CA - NORTH BAY/kboyerrogers_2.txt
+3grammed/CA - NORTH BAY/kkemp_2.txt
+3grammed/CA - NORTH BAY/kmacinnis_2.txt
+3grammed/CA - NORTH BAY/kwarren_2.txt
+3grammed/CA - NORTH BAY/mboucher_2.txt
+3grammed/CA - NORTH BAY/mfeletti_2.txt
+3grammed/CA - NORTH BAY/mkent_2.txt
+3grammed/CA - NORTH BAY/mpounding_2.txt
+3grammed/CA - NORTH BAY/mrinkenberger_2.txt
+3grammed/CA - NORTH BAY/nbrown_2.txt
+3grammed/CA - NORTH BAY/oreichert_2.txt
+3grammed/CA - NORTH BAY/rlefebvre_2.txt
+3grammed/CA - NORTH BAY/rmasters_2.txt
+3grammed/CA - NORTH BAY/rsimmons_2.txt
+3grammed/CA - NORTH BAY/svale_2.txt
+3grammed/CA - NORTH BAY/tmatthews_2.txt
+3grammed/CA - NORTH BAY/tmullan_2.txt
+3grammed/CA - NORTH BAY/trichter_2.txt
+3grammed/CA - NORTH BAY/vdufresne_2.txt
+3grammed/CA - NORTH BAY/vpelletier_2.txt
+3grammed/CA - NORTH BAY/wkeegan_2.txt
+3grammed/CA - NORTH BAY/wmclean_2.txt
+3grammed/CA - PETERBOROUGH/aboyle_2.txt
+3grammed/CA - PETERBOROUGH/cgboyle_2.txt
+3grammed/CA - PETERBOROUGH/mpboyle_2.txt
+3grammed/CA - ROP 2002/achau.txt
+3grammed/CA - ROP 2002/alevy-1.txt
+3grammed/CA - ROP 2002/alevy-2.txt
+3grammed/CA - ROP 2002/asilvaggio.txt
+3grammed/CA - ROP 2002/chui.txt
+3grammed/CA - ROP 2002/coneil.txt
+3grammed/CA - ROP 2002/cthompson.txt
+3grammed/CA - ROP 2002/emckinley.txt
+3grammed/CA - ROP 2002/jjamil.txt
+3grammed/CA - ROP 2002/jlevine.txt
+3grammed/CA - ROP 2002/jnamji.txt
+3grammed/CA - ROP 2002/kgalang.txt
+3grammed/CA - ROP 2002/mllewellyn.txt
+3grammed/CA - ROP 2002/nhardwick.txt
+3grammed/CA - ROP 2002/pprakesh.txt
+3grammed/CA - ROP 2002/qhoward.txt
+3grammed/CA - ROP 2002/rvasanji.txt
+3grammed/CA - ROP 2002/shardwick.txt
+3grammed/CA - ROP 2002/tmancini.txt
+3grammed/CA - ROP 2002/vbustamante.txt
+3grammed/CA - ROP 2002/wlevy-1.txt
+3grammed/CA - ROP 2002/wlevy-2.txt
+3grammed/CA - ROP 2003/aeaton.txt
+3grammed/CA - ROP 2003/cchoi.txt
+3grammed/CA - ROP 2003/cfernandes.txt
+3grammed/CA - ROP 2003/clee.txt
+3grammed/CA - ROP 2003/dnaskaukaas.txt
+3grammed/CA - ROP 2003/ecolum.txt
+3grammed/CA - ROP 2003/etam.txt
+3grammed/CA - ROP 2003/ewong.txt
+3grammed/CA - ROP 2003/fconnor.txt
+3grammed/CA - ROP 2003/jgalvao.txt
+3grammed/CA - ROP 2003/jmccready.txt
+3grammed/CA - ROP 2003/jmcdonald.txt
+3grammed/CA - ROP 2003/kberazzi.txt
+3grammed/CA - ROP 2003/klam.txt
+3grammed/CA - ROP 2003/kvanspilt-1.txt
+3grammed/CA - ROP 2003/kvanspilt-2.txt
+3grammed/CA - ROP 2003/ldelmonico.txt
+3grammed/CA - ROP 2003/ljackov.txt
+3grammed/CA - ROP 2003/lmccready.txt
+3grammed/CA - ROP 2003/mmantle.txt
+3grammed/CA - ROP 2003/rmantle.txt
+3grammed/CA - ROP 2003/tchan.txt
+3grammed/CA - ROP 2003/vdelmonico.txt
+3grammed/CA - ROP 2004/ccarvalheiro.txt
+3grammed/CA - ROP 2004/claterman.txt
+3grammed/CA - ROP 2004/cly.txt
+3grammed/CA - ROP 2004/dneville.txt
+3grammed/CA - ROP 2004/edaneva.txt
+3grammed/CA - ROP 2004/egriffo.txt
+3grammed/CA - ROP 2004/gcombs.txt
+3grammed/CA - ROP 2004/gsimatovic.txt
+3grammed/CA - ROP 2004/jhu.txt
+3grammed/CA - ROP 2004/jmccleary.txt
+3grammed/CA - ROP 2004/jwang.txt
+3grammed/CA - ROP 2004/kmin.txt
+3grammed/CA - ROP 2004/kpaul.txt
+3grammed/CA - ROP 2004/lneville-2.txt
+3grammed/CA - ROP 2004/lneville.txt
+3grammed/CA - ROP 2004/sfraute.txt
+3grammed/CA - ROP 2004/sgriffo.txt
+3grammed/CA - ROP 2004/sneville.txt
+3grammed/CA - ROP 2004/tgriffo.txt
+3grammed/CA - ROP 2005/bli.txt
+3grammed/CA - ROP 2005/ckan.txt
+3grammed/CA - ROP 2005/elam.txt
+3grammed/CA - ROP 2005/jtse.txt
+3grammed/CA - ROP 2005/jwong.txt
+3grammed/CA - ROP 2005/kfan.txt
+3grammed/CA - ROP 2005/khong.txt
+3grammed/CA - ROP 2005/kping.txt
+3grammed/CA - ROP 2005/llung.txt
+3grammed/CA - ROP 2005/mling1.txt
+3grammed/CA - ROP 2005/myan.txt
+3grammed/CA - ROP 2005/nlui.txt
+3grammed/CA - ROP 2005/rtang.txt
+3grammed/CA - ROP 2005/vang.txt
+3grammed/CA - ROP 2005/vfong.txt
+3grammed/CA - ROP 2005/wchan.txt
+3grammed/CA - SOUTH ASIAN/abahadur_2.txt
+3grammed/CA - SOUTH ASIAN/njairath_2.txt
+3grammed/CA - SOUTH ASIAN/srajaratnam_2.txt
+3grammed/CA - SOUTH ASIAN/ssivananda_2.txt
+3grammed/CA - SOUTH PORCUPINE/afaddei_2.txt
+3grammed/CA - SOUTH PORCUPINE/apuplich_2.txt
+3grammed/CA - SOUTH PORCUPINE/arizzoli_2.txt
+3grammed/CA - SOUTH PORCUPINE/bbattistoni_2.txt
+3grammed/CA - SOUTH PORCUPINE/cmahoney_2.txt
+3grammed/CA - SOUTH PORCUPINE/cmcmac_2.txt
+3grammed/CA - SOUTH PORCUPINE/csanglovese_2.txt
+3grammed/CA - SOUTH PORCUPINE/danderson_2.txt
+3grammed/CA - SOUTH PORCUPINE/ddunn_2.txt
+3grammed/CA - SOUTH PORCUPINE/dgadek_2.txt
+3grammed/CA - SOUTH PORCUPINE/dpugliese_2.txt
+3grammed/CA - SOUTH PORCUPINE/dsabati_2.txt
+3grammed/CA - SOUTH PORCUPINE/egadek_2.txt
+3grammed/CA - SOUTH PORCUPINE/emurphy_2.txt
+3grammed/CA - SOUTH PORCUPINE/esaar_2.txt
+3grammed/CA - SOUTH PORCUPINE/jboetto_2.txt
+3grammed/CA - SOUTH PORCUPINE/jfergus_2.txt
+3grammed/CA - SOUTH PORCUPINE/kgadek_2.txt
+3grammed/CA - SOUTH PORCUPINE/kmcangus_2.txt
+3grammed/CA - SOUTH PORCUPINE/lbananno_2.txt
+3grammed/CA - SOUTH PORCUPINE/lcook_2.txt
+3grammed/CA - SOUTH PORCUPINE/llodes_2.txt
+3grammed/CA - SOUTH PORCUPINE/mbelleville_2.txt
+3grammed/CA - SOUTH PORCUPINE/mpupich_2.txt
+3grammed/CA - SOUTH PORCUPINE/mquinton_2.txt
+3grammed/CA - SOUTH PORCUPINE/mstonge_2.txt
+3grammed/CA - SOUTH PORCUPINE/msymanski_2.txt
+3grammed/CA - SOUTH PORCUPINE/opuplich_2.txt
+3grammed/CA - SOUTH PORCUPINE/pcora_2.txt
+3grammed/CA - SOUTH PORCUPINE/rlaughren_2.txt
+3grammed/CA - SOUTH PORCUPINE/smulligan_2.txt
+3grammed/CA - SOUTH PORCUPINE/sricola_2.txt
+3grammed/CA - SOUTH PORCUPINE/srizzoli_2.txt
+3grammed/CA - SOUTH PORCUPINE/tmorissette_2.txt
+3grammed/CA - SOUTH PORCUPINE/wmcangus_2.txt
+3grammed/CA - SOUTH PORCUPINE/wmcmac_2.txt
+3grammed/CA - SWORDS 1982/glandon_2.txt
+3grammed/CA - SWORDS 1982/maldaine_2.txt
+3grammed/CA - SWORDS 1982/wlandon_2.txt
+3grammed/CA - TAY VALLEY/abarnes_2.txt
+3grammed/CA - TAY VALLEY/acalderwood_2.txt
+3grammed/CA - TAY VALLEY/ajohnson-1_2.txt
+3grammed/CA - TAY VALLEY/ajohnson-2_2.txt
+3grammed/CA - TAY VALLEY/akinsey_2.txt
+3grammed/CA - TAY VALLEY/bjohnson_2.txt
+3grammed/CA - TAY VALLEY/bmailer-2_2.txt
+3grammed/CA - TAY VALLEY/bmailer_2.txt
+3grammed/CA - TAY VALLEY/bverhoeven_2.txt
+3grammed/CA - TAY VALLEY/cdade_2.txt
+3grammed/CA - TAY VALLEY/cfredrickson_2.txt
+3grammed/CA - TAY VALLEY/dblaine_2.txt
+3grammed/CA - TAY VALLEY/ddearbourne_2.txt
+3grammed/CA - TAY VALLEY/dfredrickson_2.txt
+3grammed/CA - TAY VALLEY/dtesslerkildare_2.txt
+3grammed/CA - TAY VALLEY/edade_2.txt
+3grammed/CA - TAY VALLEY/efulsom_2.txt
+3grammed/CA - TAY VALLEY/fmooney_2.txt
+3grammed/CA - TAY VALLEY/gmooney_2.txt
+3grammed/CA - TAY VALLEY/hbarnes_2.txt
+3grammed/CA - TAY VALLEY/ikildare_2.txt
+3grammed/CA - TAY VALLEY/jbricknell_2.txt
+3grammed/CA - TAY VALLEY/jfarrington-1_2.txt
+3grammed/CA - TAY VALLEY/jfarrington-2_2.txt
+3grammed/CA - TAY VALLEY/jmailer_2.txt
+3grammed/CA - TAY VALLEY/kblaine_2.txt
+3grammed/CA - TAY VALLEY/kjohnson_2.txt
+3grammed/CA - TAY VALLEY/mjohnson_2.txt
+3grammed/CA - TEMISKAMING SHORES/aauer_2.txt
+3grammed/CA - TEMISKAMING SHORES/agivenchy_2.txt
+3grammed/CA - TEMISKAMING SHORES/asmith_2.txt
+3grammed/CA - TEMISKAMING SHORES/asorlee_2.txt
+3grammed/CA - TEMISKAMING SHORES/bdarian_2.txt
+3grammed/CA - TEMISKAMING SHORES/bmastersen_2.txt
+3grammed/CA - TEMISKAMING SHORES/cbellamy_2.txt
+3grammed/CA - TEMISKAMING SHORES/cbezaire_2.txt
+3grammed/CA - TEMISKAMING SHORES/cblack_2.txt
+3grammed/CA - TEMISKAMING SHORES/csheridan_2.txt
+3grammed/CA - TEMISKAMING SHORES/cstine_2.txt
+3grammed/CA - TEMISKAMING SHORES/ctippman_2.txt
+3grammed/CA - TEMISKAMING SHORES/cvincent_2.txt
+3grammed/CA - TEMISKAMING SHORES/cwebster_2.txt
+3grammed/CA - TEMISKAMING SHORES/cwinter_2.txt
+3grammed/CA - TEMISKAMING SHORES/dboyd_2.txt
+3grammed/CA - TEMISKAMING SHORES/dmalick_2.txt
+3grammed/CA - TEMISKAMING SHORES/dmclane_2.txt
+3grammed/CA - TEMISKAMING SHORES/dwright_2.txt
+3grammed/CA - TEMISKAMING SHORES/edelange_2.txt
+3grammed/CA - TEMISKAMING SHORES/eellerton_2.txt
+3grammed/CA - TEMISKAMING SHORES/egreevey_2.txt
+3grammed/CA - TEMISKAMING SHORES/ekrachuk_2.txt
+3grammed/CA - TEMISKAMING SHORES/emalick_2.txt
+3grammed/CA - TEMISKAMING SHORES/ganderson_2.txt
+3grammed/CA - TEMISKAMING SHORES/gkrachuk_2.txt
+3grammed/CA - TEMISKAMING SHORES/ifalls_2.txt
+3grammed/CA - TEMISKAMING SHORES/ihenri_2.txt
+3grammed/CA - TEMISKAMING SHORES/imalick_2.txt
+3grammed/CA - TEMISKAMING SHORES/ipatterson_2.txt
+3grammed/CA - TEMISKAMING SHORES/jdawson_2.txt
+3grammed/CA - TEMISKAMING SHORES/jgelbmann_2.txt
+3grammed/CA - TEMISKAMING SHORES/jgreevey_2.txt
+3grammed/CA - TEMISKAMING SHORES/jlawrence_2.txt
+3grammed/CA - TEMISKAMING SHORES/jmeyer_2.txt
+3grammed/CA - TEMISKAMING SHORES/jwinter_2.txt
+3grammed/CA - TEMISKAMING SHORES/kdriscoll_2.txt
+3grammed/CA - TEMISKAMING SHORES/kheaslip_2.txt
+3grammed/CA - TEMISKAMING SHORES/kkidd_2.txt
+3grammed/CA - TEMISKAMING SHORES/kprice_2.txt
+3grammed/CA - TEMISKAMING SHORES/kpringle_2.txt
+3grammed/CA - TEMISKAMING SHORES/kwilson_2.txt
+3grammed/CA - TEMISKAMING SHORES/lbriggs_2.txt
+3grammed/CA - TEMISKAMING SHORES/lpaolo_2.txt
+3grammed/CA - TEMISKAMING SHORES/lwarren_2.txt
+3grammed/CA - TEMISKAMING SHORES/lwaugh_2.txt
+3grammed/CA - TEMISKAMING SHORES/malestrom_2.txt
+3grammed/CA - TEMISKAMING SHORES/mgilmour_2.txt
+3grammed/CA - TEMISKAMING SHORES/mselowsky_2.txt
+3grammed/CA - TEMISKAMING SHORES/msutcliffe_2.txt
+3grammed/CA - TEMISKAMING SHORES/mvincent_2.txt
+3grammed/CA - TEMISKAMING SHORES/mwhite_2.txt
+3grammed/CA - TEMISKAMING SHORES/mwooley_2.txt
+3grammed/CA - TEMISKAMING SHORES/pfspringer_2.txt
+3grammed/CA - TEMISKAMING SHORES/pgrant_2.txt
+3grammed/CA - TEMISKAMING SHORES/rbellamy_2.txt
+3grammed/CA - TEMISKAMING SHORES/rboyd_2.txt
+3grammed/CA - TEMISKAMING SHORES/sgrissom_2.txt
+3grammed/CA - TEMISKAMING SHORES/svanwilder_2.txt
+3grammed/CA - TEMISKAMING SHORES/tbender_2.txt
+3grammed/CA - TEMISKAMING SHORES/tdejong_2.txt
+3grammed/CA - TEMISKAMING SHORES/tmclaughlin_2.txt
+3grammed/CA - TEMISKAMING SHORES/tselowsky_2.txt
+3grammed/CA - TEMISKAMING SHORES/wgraham_2.txt
+3grammed/CA - TEMISKAMING SHORES/zmoon_2.txt
+3grammed/CA - THUNDER BAY/afriar-2_2.txt
+3grammed/CA - THUNDER BAY/afriar_2.txt
+3grammed/CA - THUNDER BAY/aoconner-2_2.txt
+3grammed/CA - THUNDER BAY/aoconner_2.txt
+3grammed/CA - THUNDER BAY/ashaw_2.txt
+3grammed/CA - THUNDER BAY/astone_2.txt
+3grammed/CA - THUNDER BAY/bsampson_2.txt
+3grammed/CA - THUNDER BAY/chinson_2.txt
+3grammed/CA - THUNDER BAY/doconner_2.txt
+3grammed/CA - THUNDER BAY/dshooter_2.txt
+3grammed/CA - THUNDER BAY/esheldon_1.txt
+3grammed/CA - THUNDER BAY/flogan_2.txt
+3grammed/CA - THUNDER BAY/gfoster_2.txt
+3grammed/CA - THUNDER BAY/hsmith_2.txt
+3grammed/CA - THUNDER BAY/icalder_2.txt
+3grammed/CA - THUNDER BAY/jdupres_1.txt
+3grammed/CA - THUNDER BAY/jrice_2.txt
+3grammed/CA - THUNDER BAY/jschroder_2.txt
+3grammed/CA - THUNDER BAY/jwalker_2.txt
+3grammed/CA - THUNDER BAY/khoward_2.txt
+3grammed/CA - THUNDER BAY/kmillar_2.txt
+3grammed/CA - THUNDER BAY/kpihlavisto-2_2.txt
+3grammed/CA - THUNDER BAY/kpihlavisto_1.txt
+3grammed/CA - THUNDER BAY/kshultz-2_2.txt
+3grammed/CA - THUNDER BAY/kshultz_2.txt
+3grammed/CA - THUNDER BAY/ksinclair_2.txt
+3grammed/CA - THUNDER BAY/mbendall_2.txt
+3grammed/CA - THUNDER BAY/mcalder_1.txt
+3grammed/CA - THUNDER BAY/mhaines_2.txt
+3grammed/CA - THUNDER BAY/mmcguinness-2_2.txt
+3grammed/CA - THUNDER BAY/mmcguinness_2.txt
+3grammed/CA - THUNDER BAY/ncorte_2.txt
+3grammed/CA - THUNDER BAY/oblack_2.txt
+3grammed/CA - THUNDER BAY/pcharnock_1.txt
+3grammed/CA - THUNDER BAY/pjohnson_2.txt
+3grammed/CA - THUNDER BAY/rcalder_1.txt
+3grammed/CA - THUNDER BAY/rcaravaggio_2.txt
+3grammed/CA - THUNDER BAY/rhall_2.txt
+3grammed/CA - THUNDER BAY/sblack_2.txt
+3grammed/CA - THUNDER BAY/schoi_2.txt
+3grammed/CA - THUNDER BAY/skerr_2.txt
+3grammed/CA - THUNDER BAY/sloughlin_2.txt
+3grammed/CA - THUNDER BAY/twallwork_2.txt
+3grammed/CA - THUNDER BAY/vnokkenen_2.txt
+3grammed/CA - TORONTO 03-04/aalletson.txt
+3grammed/CA - TORONTO 03-04/acometto.txt
+3grammed/CA - TORONTO 03-04/akaran.txt
+3grammed/CA - TORONTO 03-04/amaksimowski.txt
+3grammed/CA - TORONTO 03-04/amenegol.txt
+3grammed/CA - TORONTO 03-04/amuscat.txt
+3grammed/CA - TORONTO 03-04/anappa.txt
+3grammed/CA - TORONTO 03-04/aodwyer.txt
+3grammed/CA - TORONTO 03-04/aponce.txt
+3grammed/CA - TORONTO 03-04/asailner.txt
+3grammed/CA - TORONTO 03-04/asilvera.txt
+3grammed/CA - TORONTO 03-04/asinkic.txt
+3grammed/CA - TORONTO 03-04/athompson.txt
+3grammed/CA - TORONTO 03-04/badams.txt
+3grammed/CA - TORONTO 03-04/bblackwell.txt
+3grammed/CA - TORONTO 03-04/bcombdon.txt
+3grammed/CA - TORONTO 03-04/bgriffo.txt
+3grammed/CA - TORONTO 03-04/bkim.txt
+3grammed/CA - TORONTO 03-04/bleiderman.txt
+3grammed/CA - TORONTO 03-04/bmacready.txt
+3grammed/CA - TORONTO 03-04/bmak.txt
+3grammed/CA - TORONTO 03-04/bsmart.txt
+3grammed/CA - TORONTO 03-04/cbalders.txt
+3grammed/CA - TORONTO 03-04/cdavin.txt
+3grammed/CA - TORONTO 03-04/clefage.txt
+3grammed/CA - TORONTO 03-04/cmarietta.txt
+3grammed/CA - TORONTO 03-04/cmurphy.txt
+3grammed/CA - TORONTO 03-04/cyuranyi.txt
+3grammed/CA - TORONTO 03-04/dbarrett.txt
+3grammed/CA - TORONTO 03-04/dbrooks.txt
+3grammed/CA - TORONTO 03-04/dciroli.txt
+3grammed/CA - TORONTO 03-04/dferreira.txt
+3grammed/CA - TORONTO 03-04/dfriesen.txt
+3grammed/CA - TORONTO 03-04/dkearley.txt
+3grammed/CA - TORONTO 03-04/dstobart.txt
+3grammed/CA - TORONTO 03-04/dtsang.txt
+3grammed/CA - TORONTO 03-04/eahlin.txt
+3grammed/CA - TORONTO 03-04/ecanter.txt
+3grammed/CA - TORONTO 03-04/eetorma.txt
+3grammed/CA - TORONTO 03-04/ejelenic.txt
+3grammed/CA - TORONTO 03-04/ekempt.txt
+3grammed/CA - TORONTO 03-04/ekoot.txt
+3grammed/CA - TORONTO 03-04/elyntimal.txt
+3grammed/CA - TORONTO 03-04/eshadden.txt
+3grammed/CA - TORONTO 03-04/espencer.txt
+3grammed/CA - TORONTO 03-04/etimbali.txt
+3grammed/CA - TORONTO 03-04/fdonahue.txt
+3grammed/CA - TORONTO 03-04/fflynn.txt
+3grammed/CA - TORONTO 03-04/fgranger.txt
+3grammed/CA - TORONTO 03-04/fvalentin.txt
+3grammed/CA - TORONTO 03-04/ghaslem.txt
+3grammed/CA - TORONTO 03-04/gprusski.txt
+3grammed/CA - TORONTO 03-04/hlyntimal.txt
+3grammed/CA - TORONTO 03-04/iatherly.txt
+3grammed/CA - TORONTO 03-04/jbarber.txt
+3grammed/CA - TORONTO 03-04/jbattcock.txt
+3grammed/CA - TORONTO 03-04/jclarin-2.txt
+3grammed/CA - TORONTO 03-04/jclarin.txt
+3grammed/CA - TORONTO 03-04/jclarke.txt
+3grammed/CA - TORONTO 03-04/jcreeks.txt
+3grammed/CA - TORONTO 03-04/jgill.txt
+3grammed/CA - TORONTO 03-04/jho.txt
+3grammed/CA - TORONTO 03-04/jiredale.txt
+3grammed/CA - TORONTO 03-04/jlear.txt
+3grammed/CA - TORONTO 03-04/jlichtman.txt
+3grammed/CA - TORONTO 03-04/jmacintosh.txt
+3grammed/CA - TORONTO 03-04/jmichalakos.txt
+3grammed/CA - TORONTO 03-04/jmosun.txt
+3grammed/CA - TORONTO 03-04/jryall.txt
+3grammed/CA - TORONTO 03-04/jshipano.txt
+3grammed/CA - TORONTO 03-04/jstrand.txt
+3grammed/CA - TORONTO 03-04/jtayles.txt
+3grammed/CA - TORONTO 03-04/jvogel.txt
+3grammed/CA - TORONTO 03-04/jwatson-F.txt
+3grammed/CA - TORONTO 03-04/kconflitti.txt
+3grammed/CA - TORONTO 03-04/kfaherty.txt
+3grammed/CA - TORONTO 03-04/ksmuckers.txt
+3grammed/CA - TORONTO 03-04/kthompson.txt
+3grammed/CA - TORONTO 03-04/kvalentin.txt
+3grammed/CA - TORONTO 03-04/lciroli-2.txt
+3grammed/CA - TORONTO 03-04/lciroli.txt
+3grammed/CA - TORONTO 03-04/lhyland.txt
+3grammed/CA - TORONTO 03-04/lkowalski.txt
+3grammed/CA - TORONTO 03-04/lnovak.txt
+3grammed/CA - TORONTO 03-04/lpalintini.txt
+3grammed/CA - TORONTO 03-04/lrowoldt.txt
+3grammed/CA - TORONTO 03-04/ltipper.txt
+3grammed/CA - TORONTO 03-04/mbruce.txt
+3grammed/CA - TORONTO 03-04/mbuick.txt
+3grammed/CA - TORONTO 03-04/mcampagne.txt
+3grammed/CA - TORONTO 03-04/mcrabbe.txt
+3grammed/CA - TORONTO 03-04/mgriffo.txt
+3grammed/CA - TORONTO 03-04/mlatimer.txt
+3grammed/CA - TORONTO 03-04/mmcguigan.txt
+3grammed/CA - TORONTO 03-04/mmester.txt
+3grammed/CA - TORONTO 03-04/mshapley.txt
+3grammed/CA - TORONTO 03-04/mthorne.txt
+3grammed/CA - TORONTO 03-04/mtravis.txt
+3grammed/CA - TORONTO 03-04/mwilliams.txt
+3grammed/CA - TORONTO 03-04/nborden.txt
+3grammed/CA - TORONTO 03-04/njalna.txt
+3grammed/CA - TORONTO 03-04/nswanson.txt
+3grammed/CA - TORONTO 03-04/nwold.txt
+3grammed/CA - TORONTO 03-04/oholtby.txt
+3grammed/CA - TORONTO 03-04/pfraute.txt
+3grammed/CA - TORONTO 03-04/prunonen.txt
+3grammed/CA - TORONTO 03-04/ptheal.txt
+3grammed/CA - TORONTO 03-04/ralbin.txt
+3grammed/CA - TORONTO 03-04/rburkett.txt
+3grammed/CA - TORONTO 03-04/rdubeau.txt
+3grammed/CA - TORONTO 03-04/rgruensten.txt
+3grammed/CA - TORONTO 03-04/rjennett.txt
+3grammed/CA - TORONTO 03-04/rpatry.txt
+3grammed/CA - TORONTO 03-04/rpowlett.txt
+3grammed/CA - TORONTO 03-04/rseppi.txt
+3grammed/CA - TORONTO 03-04/rsinardo.txt
+3grammed/CA - TORONTO 03-04/rstreet.txt
+3grammed/CA - TORONTO 03-04/rsykes.txt
+3grammed/CA - TORONTO 03-04/ryonson.txt
+3grammed/CA - TORONTO 03-04/sbrooks.txt
+3grammed/CA - TORONTO 03-04/sjones.txt
+3grammed/CA - TORONTO 03-04/skeeso.txt
+3grammed/CA - TORONTO 03-04/skempt.txt
+3grammed/CA - TORONTO 03-04/smcmullin.txt
+3grammed/CA - TORONTO 03-04/smoslo.txt
+3grammed/CA - TORONTO 03-04/sryall.txt
+3grammed/CA - TORONTO 03-04/sshapley.txt
+3grammed/CA - TORONTO 03-04/swhitby.txt
+3grammed/CA - TORONTO 03-04/tarnett.txt
+3grammed/CA - TORONTO 03-04/wburns-2.txt
+3grammed/CA - TORONTO 03-04/wburns.txt
+3grammed/CA - TORONTO 03-04/wcarlsberg-F-2.txt
+3grammed/CA - TORONTO 03-04/wcarlsberg-F.txt
+3grammed/CA - TORONTO 03-04/wcarlsberg-M-2.txt
+3grammed/CA - TORONTO 03-04/wcarlsberg-M.txt
+3grammed/CA - TORONTO 03-04/wpatterson.txt
+3grammed/CA - TORONTO 03-04/ymoise.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - CLARA NON-TEEN/cfelipe_20.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - CLARA NON-TEEN/cfelipe_21.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - CLARA NON-TEEN/cfelipe_22.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - CLARA NON-TEEN/cfelipe_24.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - CLARA NON-TEEN/cfelipe_25.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - CLARA NON-TEEN/cfelipe_27.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - CLARA NON-TEEN/cfelipe_28.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - CLARA TEEN/cfelipe_16.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - CLARA TEEN/cfelipe_17.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - CLARA TEEN/cfelipe_18.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - CLARA TEEN/cfelipe_19.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/aalletson.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/acometto.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/akaran.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/amaksimowski.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/amenegol.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/amuscat.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/anappa.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/aodwyer.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/aponce.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/asailner.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/asilvera.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/asinkic.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/badams.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/bblackwell.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/bcombdon.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/bgriffo.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/bkim.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/bleiderman.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/bmacready.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/bmak.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/bsantino_2.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/bsmart.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/cadavidson_2.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/cbalders.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/cdavin.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/clefage.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/cmarietta.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/cming_2.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/cmurphy.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/cyuranyi.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/dbarrett.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/dbrooks.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/dciroli.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/dfriesen.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/dkearley.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/dstobart.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/dtsang.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/eahlin.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/ecanter.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/eetorma.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/ejelenic.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/ekempt.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/ekoot.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/elyntimal.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/eshadden.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/espencer.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/fdonahue.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/fflynn.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/fgranger.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/fvalentin.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/ghaslem.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/gprusski.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/hlyntimal.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/iatherly.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/jbarber.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/jbattcock.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/jclarin-2.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/jclarin.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/jclarke.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/jcreeks.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/jgill.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/jho.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/jiredale.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/jlear.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/jlichtman.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/jmacintosh.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/jmichalakos.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/jmosun.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/jparkins_2.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/jryall.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/jshipano.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/jstrand.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/jtayles.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/jwatson-F.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/kconflitti.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/kfaherty.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/ksmuckers.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/kthompson.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/kvalentin.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/lciroli-2.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/lciroli.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/lhyland.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/lkowalski.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/lnovak.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/lpalintini.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/lrowoldt.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/ltipper.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/mbruce.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/mbuick.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/mcampagne.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/mcrabbe.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/mdubrovnik_2.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/mgriffo.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/mlatimer.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/mmcguigan.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/mmester.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/mshapley.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/mthorne.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/mtravis.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/mwilliams.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/nborden.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/njalna.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/nwold.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/oholtby.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/pcastillo_2.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/pfraute.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/prunonen.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/ptheal.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/ralbin.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/rburkett.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/rdubeau.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/rgruensten.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/rhanson_2.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/rjennett.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/rpatry.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/rpowlett.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/rseppi.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/rsinardo.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/rstreet.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/rsykes.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/ryonson.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/sbrooks.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/sdubrovnik_2.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/sjones.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/skeeso.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/skempt.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/smcmullin.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/smoslo.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/sryall.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/sshapley.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/swhitby.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/tarnett.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/wburns-2.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/wburns.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/wcarlsberg-F-2.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/wcarlsberg-F.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/wcarlsberg-M-2.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/wcarlsberg-M.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/wpatterson.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO ENGLISH CORPUS/ymoise.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/aburton_2.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/acastillo_2.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/achau.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/aeaton.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/alevy-1.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/alevy-2.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/asilvaggio.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/athompson.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/bremmington_2.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/ccarvalheiro.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/cchoi.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/cfernandes.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/chui.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/claterman.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/clee.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/cly.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/coneil.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/cthompson.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/dferreira.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/dnaskaukaas.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/dneville.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/ecolum.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/edaneva.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/egriffo.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/emckinley.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/etam.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/etimbali.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/ewong.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/fconnor.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/gcombs.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/gparkinson_2.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/gsimatovic.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/gsimkovic_2.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/jgalvao.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/jhu.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/jjamil.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/jlevine.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/jmccleary.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/jmccready.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/jmcdonald.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/jnamji.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/jvogel.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/jwang.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/kberazzi.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/kgalang.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/klam.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/kmin.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/kpaul.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/kvanspilt-1.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/kvanspilt-2.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/ldelmonico.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/ljackov.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/lmccready.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/lneville-2.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/lneville.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/lwelsby_2.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/mbeaulieu_2.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/mllewellyn.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/mmantle.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/nhardwick.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/nswanson.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/pprakesh.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/qhoward.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/rmantle.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/rvasanji.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/sermak_2.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/sfraute.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/sgriffo.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/shardwick.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/sneville.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/tchan.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/tgriffo.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/tmancini.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/vbustamante.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/vdelmonico.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/vwilloughby_2.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/wlevy-1.txt
+3grammed/CA - TORONTO ENGLISH + TEEN COPORA/CA - TORONTO TEEN CORPUS/wlevy-2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/adrazkowski_2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/apecarskie_2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/astufko_2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/aszyca_2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/bboyan_2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/bkosnaskie_2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/bmishka_2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/bmohns_2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/bszutt_2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/cchernoskie_2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/closinskie.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/cruzyckie_2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/cstubelinski_2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/dgorman_2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/dsernoseskie_2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/dszyca-1_2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/dszyca-2_2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/dszyca-3_2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/dszyca-4_2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/dszyca-5_2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/ebedard_2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/echipeskie_2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/ekosnaskie_2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/emcwood_2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/fborutski_2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/glosinskie_2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/hczerwinski_2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/iconnors_2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/jheisenberg_2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/jmalinowski_2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/jpecarskie_2-1.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/jpecarskie_2-2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/jreczynskie_2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/jszyca_2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/lberne_2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/mcowan_2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/mgilger_2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/mhudder_2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/mkirby_2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/mkruszynskie_2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/mmohns_2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/mpelowski_2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/mpetroskie_2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/mquine_2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/nbweig_2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/nguerrero_2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/omckay_2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/pconnors-1_2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/pconnors-2_2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/psulpher_2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/qreczynskie_2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/rconnolly_2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/rstubelinski_2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/sbedard_2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/sgibson_2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/skostka_2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/ssernoseskie_2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/tpecarskie-1_2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/tpecarskie-2_2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/tpick_2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/tsernoseskie_2.txt
+3grammed/CA - WILNO-BARRYS BAY-IPR/yborutski_2.txt
