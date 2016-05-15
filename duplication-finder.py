@@ -40,8 +40,8 @@ def isFalsePositive(ngram):
 
 #######################################################################
 
-found = {}
-
+found = {}	# maps reduplicates to speakers & utterances
+counts = {}	# maps reduplicates to frequency counts
 
 for textFile in findFiles(inDir, '*.txt'):
 	
@@ -86,38 +86,67 @@ for textFile in findFiles(inDir, '*.txt'):
 
 			if (word == nxtWord):
 
-				#print(word + " " + nxtWord + "\t" + line)
-
 				toAppend = speaker + "\t" + line
-
 				key = word.replace(JOINER,' ')
+
 				if key not in found:
 					found[key] = []
+					counts[key] = 0
+
 				found[key].append(toAppend)
+				counts[key] = counts[key] + 1
 
 
 # FINAL REPORTING
 
-#sorted_finds = [x for x in found.iteritems()] 
-#sorted_finds.sort(key=lambda x: x[0]) # sort by key
-
-keys = found.keys()
+# Sort by frequency
+'''counts_sorted = [x for x in counts.iteritems()] 
+counts_sorted.sort(key=lambda x: x[1]) # sort by value
+counts_sorted.reverse()
 
 # Prints out a list of all reduplications & counts
+for x in counts_sorted:
+	print x[0] +" "+ x[0] + "\t" + str(x[1])
+
+print "===================================="
+
+# Prints out a list of all reduplications WITH the contexts & speakers
+for x in counts_sorted: 
+
+	key = x[0]
+	freq = str(x[1])
+	print key +" "+ key + "\t" + freq
+
+	for v in found[key]:
+		tmp = v.split(" ")
+		lastWord = tmp[-1]
+		# Output words in the sentence, not n-grams!
+		tmp = map(lambda(x):(x[0:x.index(JOINER)]) if JOINER in x else x, tmp)
+		tmp = tmp + lastWord.split(JOINER)[1:]
+		print "\t" + " ".join(tmp) 
+	print "===================================="
+'''
+
+# Sort by alphabetical order
+keys = found.keys()
+  
+# Prints out a list of all reduplications & counts
 for key in sorted(keys):
-	print key +" | "+ key + "\t" + str(len(found[key]))
+	print key +" "+ key + "\t" + str(counts[key])
 
 print "===================================="
 
 # Prints out a list of all reduplications WITH the contexts & speakers
 for key in sorted(keys): 
-    print key +" | "+ key 
-    for v in found[key]:
-    	tmp = v.split(" ")
-    	lastWord = tmp[-1]
-    	# Output words in the sentence, not n-grams!
-    	tmp = map(lambda(x):(x[0:x.index(JOINER)]) if JOINER in x else x, tmp)
-    	tmp = tmp + lastWord.split(JOINER)[1:]
-    	print "\t" + " ".join(tmp) 
-    print "===================================="
 
+	print key +" "+ key 
+
+	for v in found[key]:
+		print "\t" + v
+		tmp = v.split(" ")
+		lastWord = tmp[-1]
+		# Output words in the sentence, not n-grams!
+		tmp = map(lambda(x):(x[0:x.index(JOINER)]) if JOINER in x else x, tmp)
+		tmp = tmp + lastWord.split(JOINER)[1:]
+		print "\t" + " ".join(tmp) 
+	print "===================================="
