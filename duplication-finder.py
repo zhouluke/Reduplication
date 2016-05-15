@@ -142,7 +142,6 @@ for key in sorted(keys):
 	print key +" "+ key 
 
 	for v in found[key]:
-		print "\t" + v
 		tmp = v.split(" ")
 		lastWord = tmp[-1]
 		# Output words in the sentence, not n-grams!
