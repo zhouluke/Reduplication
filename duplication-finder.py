@@ -13,7 +13,7 @@ inDir = sys.argv[1]
 n = int(sys.argv[2])
 
 JOINER = '*'
-PUNCT = ['-',',','"',':','(',')']
+PUNCT = ['-','"',':','(',')',';'] # not included: ','
 
 
 # Helper function: Finds all files (subject to 'filter') in the directory 'path'
@@ -32,9 +32,23 @@ def isFalsePositive(ngram):
 
 	words = ngram.split(JOINER)
 
+	i=0
 	for word in words:
-		if len(word)<=1 or word[-1] in PUNCT or word[0] in PUNCT:
+
+		if len(word)<=1:
 			return True
+		if word[-1] in PUNCT or word[0] in PUNCT:
+			return True
+		# Handles comma differently depending on whether n=1 or n>1 -_-
+		if word[-1]==',':
+			if n==1:
+				return True	
+			# Gets mad when ',' is in the middle of a MULTIgram, 
+			# but not when it's at the end
+			if i<len(words)-1:
+				return True	
+
+		i = i+1
 
 	return False
 
@@ -71,23 +85,23 @@ for textFile in findFiles(inDir, '*.txt'):
 	# OUTPUT:
 	for line in lines:
 
-		words = line.split(" ")
+		ngrams = line.split(" ")
 		
-		numWds = len(words)
+		numNgrams = len(ngrams)
 		newLine = ""
 
-		for i in range(0,numWds-n):
+		for i in range(0,numNgrams-n):
 
-			word = words[i].lower()
-			nxtWord = words[i+n].lower()
+			ngram = ngrams[i].lower()
+			nxtNgram = ngrams[i+n].lower()
 
-			if isFalsePositive(word):
+			if isFalsePositive(ngram):
 				continue
 
-			if (word == nxtWord):
+			if (ngram.replace(',','') == nxtNgram.replace(',','')):
 
 				toAppend = speaker + "\t" + line
-				key = word.replace(JOINER,' ')
+				key = ngram.replace(JOINER,' ')
 
 				if key not in found:
 					found[key] = []

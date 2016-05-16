@@ -40,27 +40,31 @@ for textFile in findFiles(inDir, '*.txt'):
 	text = re.sub("\[(\d|:|\.)+\]","",text)	# timecodes
 	#text = re.sub(r"\'|\"|\,|","",text) # punctuation
 
-	text = re.sub(r"(</?\d+>\s*</?\d+>)|\.|\?|!|,|:|;","\n",text) # tags & sentence breaks
-	text = re.sub(r"(<\d+><\d+>)","",text)
+	text = re.sub(r"(</?\d+>\s*</?\d+>)","\n",text) # tag sandwiches -> sentence breaks
+	text = re.sub(r"\.|\?|!","\n",text) # more sentence breaks
+	text = re.sub(r"</?\d+>","",text)	# unsandwiched tags
 
-	# Corrects for improper character encoding
+	# Correcting for improper character encoding
 	text = re.sub(r"\xD5","'",text)
 	text = re.sub(r"","",text)
 	text = re.sub(r"\x00","",text)
 
+	# Contractions
+	text = re.sub(r"(\w+) '(s|ll|d|t|re|ve|m)",r"\1'\2",text) 
 
-	lines = text.split("\n")
-	lines = map(lambda(x):x.strip(),lines)
 
-	
 
 	# Output file
 	outFileNm = outDir + "/" + textFile[textFile.index('/')+1:]
 	print outFileNm
-	
+
 	writeBuffer = ""
 	
+
 	# For each line, makes n-grams out of the words!
+	lines = text.split("\n")
+	lines = map(lambda(x):x.strip(),lines)
+
 	for line in lines:
 
 		if not line:
