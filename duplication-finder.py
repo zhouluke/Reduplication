@@ -27,7 +27,7 @@ def findFiles (path, filter):
 # Kills likely false positives
 def isFalsePositive(ngram):
 
-	if '(inc)' in ngram:
+	'''if '(inc)' in ngram:
 		return True
 
 	words = ngram.split(JOINER)
@@ -48,7 +48,7 @@ def isFalsePositive(ngram):
 			if i<len(words)-1:
 				return True	
 
-		i = i+1
+		i = i+1'''
 
 	return False
 
@@ -85,10 +85,11 @@ for textFile in findFiles(inDir, '*.txt'):
 	# OUTPUT:
 	for line in lines:
 
+		origLine = line
+
 		ngrams = line.split(" ")
 		
 		numNgrams = len(ngrams)
-		newLine = ""
 
 		for i in range(0,numNgrams-n):
 
@@ -100,7 +101,8 @@ for textFile in findFiles(inDir, '*.txt'):
 
 			if (ngram.replace(',','') == nxtNgram.replace(',','')):
 
-				toAppend = speaker + "\t" + line
+				toAppend = speaker + "\t" + origLine
+
 				key = ngram.replace(JOINER,' ')
 
 				if key not in found:

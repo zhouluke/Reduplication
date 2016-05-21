@@ -50,7 +50,7 @@ for textFile in findFiles(inDir, '*.txt'):
 	text = re.sub(r"\x00","",text)
 
 	# Contractions
-	text = re.sub(r"(\w+) '(s|ll|d|t|re|ve|m)",r"\1'\2",text) 
+	text = re.sub(r"(\w+) '(s|ll|d|t|re|ve|m|z)",r"\1'\2",text) 
 
 
 
