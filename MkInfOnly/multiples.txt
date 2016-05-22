@@ -1,0 +1,39 @@
+UK - CUMNOCK/A&A.Milroy.txt
+UK - CUMNOCK/A&K.Campbell.txt
+UK - CUMNOCK/B.Don&B.Rob.txt
+UK - CUMNOCK/C&H.Baxter.txt
+UK - CUMNOCK/E.Ham&C.Mac.txt
+UK - CUMNOCK/G&N.Nesbit.txt
+UK - CUMNOCK/I&E.Ferguson.txt
+UK - CUMNOCK/J&S.Wallace&E.Campbell.txt
+UK - CUMNOCK/J.Dewar&M.Harris.txt
+UK - CUMNOCK/M&E.Rae.txt
+UK - CUMNOCK/M&R.Watt.txt
+UK - DURHAM/Mr&MrsAnderson.txt
+UK - MARYPORT/J&L.Fitgerald.txt
+UK - MARYPORT/J&M.Irwin.txt
+UK - MARYPORT/J&R.Mortimer.txt
+UK - MARYPORT/S.Forrest&L.Abbot.txt
+UK - MARYPORT/V&BMarshman.txt
+UK - PORTAVOGIE/PVG-All_M_SAdair.txt
+UK - SOMERSET/a&jhunt.txt
+UK - SOMERSET/b&ppatterson.txt
+UK - SOMERSET/r&chibbard.txt
+UK - SUSSEX/A&WTowne.txt
+UK - WHEATLEY HILL/c&jcrosby.txt
+UK - WHEATLEY HILL/m&sdickson.txt
+UK - WHEATLEY HILL/p&a&ahunter.txt
+UK - YORK/a&ljackson.txt
+UK - YORK/c&r&cbeale.txt
+UK - YORK/dtomlins&btomlins.txt
+UK - YORK/e&mmichaels.txt
+UK - YORK/g&s&l.donald.txt
+UK - YORK/j&i.robinson.txt
+UK - YORK/j&rslater.txt
+UK - YORK/r&msimpson.txt
+UK - YORK/rallen&sboggin.txt
+UK - YORK/rmitchell&ddavis.txt
+UK - YORK/tbaker&rbaker.txt
+UK - YORK/v&ppeterson.txt
+UK - YORK OUTLYING/YORK98_C&J_Clarke.txt
+UK - YORK OUTLYING/YORK98_R&M_Draper.txt
