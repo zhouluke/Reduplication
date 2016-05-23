@@ -1,28 +1,53 @@
-UK - CUMNOCK/A&A.Milroy.txt
+UK - CUMNOCK/A&A.Milroy.txt -- N.B. ']1' changed to '1]'. Line 834: [03] changed to [030]
+set(['[030]', '[03]', '[031]'])
 UK - CUMNOCK/A&K.Campbell.txt
+set(['[005]', '[004]'])
 UK - CUMNOCK/B.Don&B.Rob.txt
+set(['[016]', '[015]', '[0125]'])
 UK - CUMNOCK/C&H.Baxter.txt
+set(['[010]', '[011]', '[01]'])
 UK - CUMNOCK/E.Ham&C.Mac.txt
+set(['[0925]', '[007]', '[02]', '[025]', '[026]'])
 UK - CUMNOCK/G&N.Nesbit.txt
+set(['[023]', '[02]', '[024]'])
 UK - CUMNOCK/I&E.Ferguson.txt
+set(['[002]', '[02]', '[022]', '[021]', '[01]'])
 UK - CUMNOCK/J&S.Wallace&E.Campbell.txt
+set(['[0122]', '[012]', '[014]', '[013]'])
 UK - CUMNOCK/J.Dewar&M.Harris.txt
+set(['[007]', '[008]'])
 UK - CUMNOCK/M&E.Rae.txt
+set(['[002]', '[02]', '[003]'])
 UK - CUMNOCK/M&R.Watt.txt
+set(['[038]', '[030]', '[039]'])
 UK - DURHAM/Mr&MrsAnderson.txt
+set(['[016]', '[015]', '[008]'])
 UK - MARYPORT/J&L.Fitgerald.txt
+set(['[007]', '[004]'])
 UK - MARYPORT/J&M.Irwin.txt
+set(['[002]', '[003]'])
 UK - MARYPORT/J&R.Mortimer.txt
+set(['[012]', '[013]'])
 UK - MARYPORT/S.Forrest&L.Abbot.txt
+set(['[005]', '[006]', '[1]'])
 UK - MARYPORT/V&BMarshman.txt
+set(['[033]', '[032]', '[2]'])
 UK - PORTAVOGIE/PVG-All_M_SAdair.txt
+set(['[001]', '[003]', '[007]', '[006]', '[009]', '[002]', '[008]', '[005]', '[1]', '[004]'])
 UK - SOMERSET/a&jhunt.txt
+set(['[023]', '[022]'])
 UK - SOMERSET/b&ppatterson.txt
+set(['[018]', '[017]'])
 UK - SOMERSET/r&chibbard.txt
+set(['[020]', '[019]'])
 UK - SUSSEX/A&WTowne.txt
+set(['[005]', '[004]'])
 UK - WHEATLEY HILL/c&jcrosby.txt
+set(['[001]', '[077]', '[007]', '[022]', '[021]'])
 UK - WHEATLEY HILL/m&sdickson.txt
+set(['[009]', '[010]'])
 UK - WHEATLEY HILL/p&a&ahunter.txt
+set(['[08]', '[018]', '[017]', '[019]'])
 UK - YORK/a&ljackson.txt
 UK - YORK/c&r&cbeale.txt
 UK - YORK/dtomlins&btomlins.txt
@@ -36,4 +61,6 @@ UK - YORK/rmitchell&ddavis.txt
 UK - YORK/tbaker&rbaker.txt
 UK - YORK/v&ppeterson.txt
 UK - YORK OUTLYING/YORK98_C&J_Clarke.txt
+set(['[3]', '[005]', '[006]'])
 UK - YORK OUTLYING/YORK98_R&M_Draper.txt
+set(['[018]', '[017]'])

@@ -28,6 +28,53 @@ def writeOut(outFileNm,text):
 	outFile.write(text)
 	outFile.close()
 
+###############################################
+
+# Precondition: assumes interviewer tags have already been removed
+def filterBySpeakers(text,tagKillingFn):
+
+	openTag = r'\['
+	closeTag = r'\]'
+
+	remTags = re.findall(r'\[(\d+)\]',text)
+	if not remTags:	# cannot find the multiple speakers
+		return None
+
+	remTags = set(remTags)
+	#print remTags
+
+	# Placeholders to assist with the find & replace process
+	SPKR_TMP = 'PLACEHOLDER'
+	NONSPKR_TMP = '[8]'	# something that would get pruned by tagKillingFn
+	NONSPKR_TMP_REGEX = '\[8\]'
+
+	# Dictionary to map speaker IDs to filtered transcripts 
+	filtered = {}	 
+
+	for spkID in remTags:
+		
+		myTag = openTag+spkID+closeTag
+
+		textCpy = re.sub(myTag,SPKR_TMP,text)	
+		textCpy = re.sub(r'\[(\d+)\]',NONSPKR_TMP,textCpy)	
+		textCpy = re.sub(SPKR_TMP,'['+spkID+']',textCpy)
+
+		textCpy = tagKillingFn(textCpy)
+
+		# Check that the filtering really killed all other speakers
+		lingerers = re.findall(NONSPKR_TMP_REGEX,text)
+		if lingerers:
+			print "WARNING! Other speakers found in filtered transcript for speaker " + spkID
+			for x in lingerers:
+				print "\t" + x
+
+		filtered[spkID] = textCpy
+		#print textCpy
+
+	return filtered
+
+
+###############################################
 
 # Reads in a single file like '<inDir>/YORK/lol.txt', removes tags and other
 # nasty things, and then writes the modified version to '<outDir>/YORK/lol.txt'
@@ -58,24 +105,23 @@ def doOneFile(textFile,outDir,tagKillingFn):
 
 	text = tagKillingFn(text)
 
+	'''
 	# Contractions
 	#text = re.sub(r"(\w+) '(s|ll|d|t|re|ve|m|z)",r"\1'\2",text) 
 
 	# Adds appropriate spacing between bracketed things
 	#text = re.sub(r"(\)|\]|-|\})(\(|\[|\{)",r"\1 \2",text) 
+	'''
 
 	# Collapses multiple spacing into a single space character
 	text = re.sub(r" +",r" ",text) 
 
-	# Output file
-	tmp = textFile[textFile.index('/')+1:]
-	outFileNm = outDir + "/" + tmp
-	#print outFileNm
+	return text
 
-	writeOut(outFileNm,text)
 
-	if '&' in tmp or 'All_' in tmp:
-		#toDoManually.append(tmp)
-		return tmp
+def mkOutFileNm(inFileNm):
+	
+	outFileNm = inFileNm[inFileNm.index('/')+1:]
+	#outFileNm = outDir + "/" + nmWithoutDir
 
-	return 0
+	return outFileNm
