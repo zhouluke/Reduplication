@@ -1,66 +1,341 @@
-UK - CUMNOCK/A&A.Milroy.txt -- N.B. ']1' changed to '1]'. Line 834: [03] changed to [030]
-set(['[030]', '[03]', '[031]'])
+UK - CULLEYBACKEY/A.Majury.txt
+UK - CULLEYBACKEY/A.Murray.txt
+UK - CULLEYBACKEY/B.Cottell.txt
+UK - CULLEYBACKEY/B.Mcbride.txt
+UK - CULLEYBACKEY/D.Binchy.txt
+UK - CULLEYBACKEY/D.Kilbride.txt
+UK - CULLEYBACKEY/H.Caddell.txt
+UK - CULLEYBACKEY/H.Keane.txt
+UK - CULLEYBACKEY/J.Nesbitt.txt
+UK - CULLEYBACKEY/J.Parnell.txt
+UK - CULLEYBACKEY/K.McBride.txt
+UK - CULLEYBACKEY/L.Trimble.txt
+UK - CULLEYBACKEY/M.Ellis.txt
+UK - CULLEYBACKEY/M.Gonne.txt
+UK - CULLEYBACKEY/M.O'Leary.txt
+UK - CULLEYBACKEY/P.Kelly.txt
+UK - CULLEYBACKEY/R.Donovon.txt
+UK - CULLEYBACKEY/R.Paisley.txt
+UK - CULLEYBACKEY/S.Milroy.txt
+UK - CULLEYBACKEY/T.Baird.txt
+UK - CUMNOCK/A&A.Milroy.txt -- ']1' changed to '1]'. Line 834: [03] changed to [030]
+        tmpUK/UK - CUMNOCK/A&A.Milroy_030.txt
+        tmpUK/UK - CUMNOCK/A&A.Milroy_031.txt
 UK - CUMNOCK/A&K.Campbell.txt
-set(['[005]', '[004]'])
-UK - CUMNOCK/B.Don&B.Rob.txt
-set(['[016]', '[015]', '[0125]'])
+        tmpUK/UK - CUMNOCK/A&K.Campbell_005.txt
+        tmpUK/UK - CUMNOCK/A&K.Campbell_004.txt
+UK - CUMNOCK/B.Don&B.Rob.txt -- Line 528: changed [0125] to [15]
+        tmpUK/UK - CUMNOCK/B.Don&B.Rob_015.txt
+        tmpUK/UK - CUMNOCK/B.Don&B.Rob_016.txt
+UK - CUMNOCK/B.Mcgregor.txt
+UK - CUMNOCK/B.Murray.txt
+UK - CUMNOCK/B.Watt.txt
 UK - CUMNOCK/C&H.Baxter.txt
-set(['[010]', '[011]', '[01]'])
+        tmpUK/UK - CUMNOCK/C&H.Baxter_010.txt
+        tmpUK/UK - CUMNOCK/C&H.Baxter_011.txt
+        tmpUK/UK - CUMNOCK/C&H.Baxter_01.txt
+UK - CUMNOCK/C.Buchanan.txt
 UK - CUMNOCK/E.Ham&C.Mac.txt
-set(['[0925]', '[007]', '[02]', '[025]', '[026]'])
+        tmpUK/UK - CUMNOCK/E.Ham&C.Mac_025.txt
+        tmpUK/UK - CUMNOCK/E.Ham&C.Mac_02.txt
+        tmpUK/UK - CUMNOCK/E.Ham&C.Mac_0925.txt
+        tmpUK/UK - CUMNOCK/E.Ham&C.Mac_026.txt
+        tmpUK/UK - CUMNOCK/E.Ham&C.Mac_007.txt
+UK - CUMNOCK/E.Muir.txt
+UK - CUMNOCK/E.Stevenson.txt
+UK - CUMNOCK/F.Bell.txt
 UK - CUMNOCK/G&N.Nesbit.txt
-set(['[023]', '[02]', '[024]'])
+        tmpUK/UK - CUMNOCK/G&N.Nesbit_02.txt
+        tmpUK/UK - CUMNOCK/G&N.Nesbit_024.txt
+        tmpUK/UK - CUMNOCK/G&N.Nesbit_023.txt
 UK - CUMNOCK/I&E.Ferguson.txt
-set(['[002]', '[02]', '[022]', '[021]', '[01]'])
+        tmpUK/UK - CUMNOCK/I&E.Ferguson_02.txt
+        tmpUK/UK - CUMNOCK/I&E.Ferguson_002.txt
+        tmpUK/UK - CUMNOCK/I&E.Ferguson_01.txt
+        tmpUK/UK - CUMNOCK/I&E.Ferguson_021.txt
+        tmpUK/UK - CUMNOCK/I&E.Ferguson_022.txt
 UK - CUMNOCK/J&S.Wallace&E.Campbell.txt
-set(['[0122]', '[012]', '[014]', '[013]'])
+        tmpUK/UK - CUMNOCK/J&S.Wallace&E.Campbell_012.txt
+        tmpUK/UK - CUMNOCK/J&S.Wallace&E.Campbell_013.txt
+        tmpUK/UK - CUMNOCK/J&S.Wallace&E.Campbell_014.txt
+        tmpUK/UK - CUMNOCK/J&S.Wallace&E.Campbell_0122.txt
 UK - CUMNOCK/J.Dewar&M.Harris.txt
-set(['[007]', '[008]'])
+        tmpUK/UK - CUMNOCK/J.Dewar&M.Harris_008.txt
+        tmpUK/UK - CUMNOCK/J.Dewar&M.Harris_007.txt
+UK - CUMNOCK/J.Scott.txt
+UK - CUMNOCK/J.Welsh.txt
+UK - CUMNOCK/K.Murphy.txt
 UK - CUMNOCK/M&E.Rae.txt
-set(['[002]', '[02]', '[003]'])
+        tmpUK/UK - CUMNOCK/M&E.Rae_02.txt
+        tmpUK/UK - CUMNOCK/M&E.Rae_002.txt
+        tmpUK/UK - CUMNOCK/M&E.Rae_003.txt
 UK - CUMNOCK/M&R.Watt.txt
-set(['[038]', '[030]', '[039]'])
+        tmpUK/UK - CUMNOCK/M&R.Watt_038.txt
+        tmpUK/UK - CUMNOCK/M&R.Watt_039.txt
+        tmpUK/UK - CUMNOCK/M&R.Watt_030.txt
+UK - CUMNOCK/M.Connery.txt
+UK - CUMNOCK/N.Taylor.txt
+UK - CUMNOCK/R.Stewart.txt
+UK - CUMNOCK/S.Jones.txt
+UK - CUMNOCK/W.Burns.txt
+UK - CUMNOCK/W.Lang.txt
+UK - DEVON/BButt.txt
+UK - DEVON/BJames.txt
+UK - DEVON/DCollins.txt
+UK - DEVON/IThom.txt
+UK - DEVON/JPeters.txt
+UK - DEVON/JSmith.txt
+UK - DEVON/PDunster.txt
+UK - DEVON/RHarris.txt
+UK - DURHAM/Alan.txt
+UK - DURHAM/Barbara.txt
+UK - DURHAM/Barry.txt
+UK - DURHAM/Denise.txt
+UK - DURHAM/Helen.txt
+UK - DURHAM/Joy.txt
+UK - DURHAM/Katrina.txt
+UK - DURHAM/Keith.txt
+UK - DURHAM/Linda.txt
+UK - DURHAM/Melvin.txt
+UK - DURHAM/Mick.txt
 UK - DURHAM/Mr&MrsAnderson.txt
-set(['[016]', '[015]', '[008]'])
+        UK - DURHAM/Mr&MrsAnderson_008.txt
+        UK - DURHAM/Mr&MrsAnderson_015.txt
+        UK - DURHAM/Mr&MrsAnderson_016.txt
+UK - DURHAM/Nina.txt
+UK - DURHAM/Pamela.txt
+UK - DURHAM/Roger.txt
+UK - DURHAM/Stephen.txt
+UK - DURHAM/Terry.txt
+UK - DURHAM/Tony.txt
+UK - DURHAM/Vicky.txt
+UK - MARYPORT/A.Edwards.txt
+UK - MARYPORT/A.Myers.txt
+UK - MARYPORT/B.Ellis.txt
+UK - MARYPORT/B.Longley.txt
+UK - MARYPORT/B.Whiting.txt
+UK - MARYPORT/EWilliams.txt
+UK - MARYPORT/F.Hitch.txt
+UK - MARYPORT/F.Knowles.txt
+UK - MARYPORT/G.Edwards.txt
+UK - MARYPORT/G.Kenway.txt
+UK - MARYPORT/HelenPhilips.txt
 UK - MARYPORT/J&L.Fitgerald.txt
-set(['[007]', '[004]'])
+        UK - MARYPORT/J&L.Fitgerald_007.txt
+        UK - MARYPORT/J&L.Fitgerald_004.txt
 UK - MARYPORT/J&M.Irwin.txt
-set(['[002]', '[003]'])
+        UK - MARYPORT/J&M.Irwin_003.txt
+        UK - MARYPORT/J&M.Irwin_002.txt
 UK - MARYPORT/J&R.Mortimer.txt
-set(['[012]', '[013]'])
+        UK - MARYPORT/J&R.Mortimer_012.txt
+        UK - MARYPORT/J&R.Mortimer_013.txt
+UK - MARYPORT/J.Dixon.txt
+UK - MARYPORT/J.Dobson.txt
+UK - MARYPORT/J.Edwards.txt
+UK - MARYPORT/J.Gledhill.txt
+UK - MARYPORT/J.Litchfield.txt
+UK - MARYPORT/K.Price.txt
+UK - MARYPORT/L.Fisher.txt
+UK - MARYPORT/L.Fitzgerald.txt
+UK - MARYPORT/M.Clement.txt
+UK - MARYPORT/M.Fellows.txt
+UK - MARYPORT/M.Hyde.txt
+UK - MARYPORT/M.Plummer.txt
+UK - MARYPORT/M.Pulleyn.txt
+UK - MARYPORT/M.White.txt
+UK - MARYPORT/P.Jackson.txt
+UK - MARYPORT/P.Stephenson.txt
+UK - MARYPORT/R.Bishop.txt
+UK - MARYPORT/R.Murdoch.txt
+UK - MARYPORT/S.Bates.txt
 UK - MARYPORT/S.Forrest&L.Abbot.txt
-set(['[005]', '[006]', '[1]'])
+        UK - MARYPORT/S.Forrest&L.Abbot_1.txt
+        UK - MARYPORT/S.Forrest&L.Abbot_006.txt
+        UK - MARYPORT/S.Forrest&L.Abbot_005.txt
 UK - MARYPORT/V&BMarshman.txt
-set(['[033]', '[032]', '[2]'])
+        UK - MARYPORT/V&BMarshman_032.txt
+        UK - MARYPORT/V&BMarshman_033.txt
+UK - MARYPORT/W.Campbell.txt
+UK - PORTAVOGIE/DJames.txt
+UK - PORTAVOGIE/JAbbot.txt
+UK - PORTAVOGIE/KDevoyJBaird.txt
+UK - PORTAVOGIE/PDennet.txt
 UK - PORTAVOGIE/PVG-All_M_SAdair.txt
-set(['[001]', '[003]', '[007]', '[006]', '[009]', '[002]', '[008]', '[005]', '[1]', '[004]'])
+        UK - PORTAVOGIE/PVG-All_M_SAdair_003.txt
+        UK - PORTAVOGIE/PVG-All_M_SAdair_002.txt
+        UK - PORTAVOGIE/PVG-All_M_SAdair_001.txt
+        UK - PORTAVOGIE/PVG-All_M_SAdair_007.txt
+        UK - PORTAVOGIE/PVG-All_M_SAdair_006.txt
+        UK - PORTAVOGIE/PVG-All_M_SAdair_005.txt
+        UK - PORTAVOGIE/PVG-All_M_SAdair_004.txt
+        UK - PORTAVOGIE/PVG-All_M_SAdair_009.txt
+        UK - PORTAVOGIE/PVG-All_M_SAdair_008.txt
+UK - PORTAVOGIE/RMawhinney.txt
+UK - PORTAVOGIE/SCully.txt
 UK - SOMERSET/a&jhunt.txt
-set(['[023]', '[022]'])
+        UK - SOMERSET/a&jhunt_023.txt
+        UK - SOMERSET/a&jhunt_022.txt
 UK - SOMERSET/b&ppatterson.txt
-set(['[018]', '[017]'])
+        UK - SOMERSET/b&ppatterson_018.txt
+        UK - SOMERSET/b&ppatterson_017.txt
+UK - SOMERSET/bbishop.txt
+UK - SOMERSET/bholmes.txt
+UK - SOMERSET/bholt.txt
+UK - SOMERSET/davidsmith.txt
+UK - SOMERSET/dbatt.txt
+UK - SOMERSET/dmoore.txt
+UK - SOMERSET/eold.txt
+UK - SOMERSET/esansom.txt
+UK - SOMERSET/eshave.txt
+UK - SOMERSET/gbradley.txt
+UK - SOMERSET/gwhelan.txt
+UK - SOMERSET/ibargery.txt
+UK - SOMERSET/jbunce.txt
+UK - SOMERSET/kbrake.txt
+UK - SOMERSET/kparsons.txt
+UK - SOMERSET/lbishop.txt
+UK - SOMERSET/mherridge.txt
+UK - SOMERSET/msalter.txt
+UK - SOMERSET/mstoner.txt
+UK - SOMERSET/nwilson.txt
+UK - SOMERSET/pgillam.txt
 UK - SOMERSET/r&chibbard.txt
-set(['[020]', '[019]'])
+        UK - SOMERSET/r&chibbard_019.txt
+        UK - SOMERSET/r&chibbard_020.txt
+UK - SOMERSET/rsergeant.txt
+UK - SOMERSET/rtaylor.txt
+UK - SOMERSET/sbartlett.txt
+UK - SOMERSET/sross.txt
+UK - SOMERSET/tbartlett.txt
+UK - SOMERSET/tbishop.txt
+UK - SOMERSET/tbrown.txt
+UK - SOMERSET/tjudd.txt
 UK - SUSSEX/A&WTowne.txt
-set(['[005]', '[004]'])
+        UK - SUSSEX/A&WTowne_005.txt
+        UK - SUSSEX/A&WTowne_004.txt
+UK - SUSSEX/DHedges.txt
+UK - SUSSEX/FBower.txt
+UK - SUSSEX/JDawson.txt
+UK - SUSSEX/MLawrence.txt
+UK - SUSSEX/PRichards.txt
+UK - SUSSEX/RDrake.txt
+UK - WHEATLEY HILL/amarshall.txt
+UK - WHEATLEY HILL/asmith.txt
 UK - WHEATLEY HILL/c&jcrosby.txt
-set(['[001]', '[077]', '[007]', '[022]', '[021]'])
+        UK - WHEATLEY HILL/c&jcrosby_077.txt
+        UK - WHEATLEY HILL/c&jcrosby_001.txt
+        UK - WHEATLEY HILL/c&jcrosby_022.txt
+        UK - WHEATLEY HILL/c&jcrosby_021.txt
+        UK - WHEATLEY HILL/c&jcrosby_007.txt
+UK - WHEATLEY HILL/ebeck.txt
+UK - WHEATLEY HILL/fmarshall.txt
+UK - WHEATLEY HILL/glass.txt
+UK - WHEATLEY HILL/jgreener.txt
+UK - WHEATLEY HILL/jjones.txt
+UK - WHEATLEY HILL/kbeck.txt
+UK - WHEATLEY HILL/lsturgess.txt
 UK - WHEATLEY HILL/m&sdickson.txt
-set(['[009]', '[010]'])
+        UK - WHEATLEY HILL/m&sdickson_010.txt
+        UK - WHEATLEY HILL/m&sdickson_009.txt
+UK - WHEATLEY HILL/ncotton.txt
+UK - WHEATLEY HILL/ododds.txt
 UK - WHEATLEY HILL/p&a&ahunter.txt
-set(['[08]', '[018]', '[017]', '[019]'])
+        UK - WHEATLEY HILL/p&a&ahunter_018.txt
+        UK - WHEATLEY HILL/p&a&ahunter_019.txt
+        UK - WHEATLEY HILL/p&a&ahunter_08.txt
+        UK - WHEATLEY HILL/p&a&ahunter_017.txt
+UK - WHEATLEY HILL/pdickson.txt
+UK - WHEATLEY HILL/pmarshall.txt
+UK - WHEATLEY HILL/rdickson.txt
+UK - WHEATLEY HILL/scotton.txt
+UK - WHEATLEY HILL/sdavison.txt
 UK - YORK/a&ljackson.txt
+UK - YORK/acork.txt
+UK - YORK/astone.txt
+UK - YORK/bhamilton.txt
+UK - YORK/blowe.txt
 UK - YORK/c&r&cbeale.txt
+UK - YORK/cbeckett.txt
+UK - YORK/cbiggs.txt
+UK - YORK/cgiles.txt
+UK - YORK/csmith.txt
+UK - YORK/cspence.txt
+UK - YORK/daisysmith.txt
+UK - YORK/dburns.txt
+UK - YORK/dcrisp.txt
+UK - YORK/dford.txt
 UK - YORK/dtomlins&btomlins.txt
+UK - YORK/dwallis.txt
 UK - YORK/e&mmichaels.txt
+UK - YORK/eburritt.txt
+UK - YORK/echapman.txt
 UK - YORK/g&s&l.donald.txt
+UK - YORK/ggreen.txt
+UK - YORK/gthomas.txt
+UK - YORK/gwalton.txt
+UK - YORK/hbutton.txt
+UK - YORK/hdaniels.txt
+UK - YORK/hstainton.txt
+UK - YORK/hughphilips.txt
 UK - YORK/j&i.robinson.txt
 UK - YORK/j&rslater.txt
+UK - YORK/jderby.txt
+UK - YORK/jhornsea.txt
+UK - YORK/jlowe.txt
+UK - YORK/jtweddle.txt
+UK - YORK/kcrellin.txt
+UK - YORK/kdilks.txt
+UK - YORK/kwebster.txt
+UK - YORK/kyoung.txt
+UK - YORK/lmcgrath.txt
+UK - YORK/lpanel.txt
+UK - YORK/lpreston.txt
+UK - YORK/ltandy.txt
+UK - YORK/maspel.txt
+UK - YORK/mbrown.txt
+UK - YORK/mgriffith.txt
+UK - YORK/mjohnstone.txt
+UK - YORK/mlarkin.txt
+UK - YORK/mlondry.txt
+UK - YORK/mpeters.txt
+UK - YORK/mthorpe.txt
+UK - YORK/mtoovey.txt
+UK - YORK/nbond.txt
+UK - YORK/nheath.txt
+UK - YORK/nhudson.txt
+UK - YORK/nthomas.txt
+UK - YORK/ocavell.txt
+UK - YORK/pgregory.txt
 UK - YORK/r&msimpson.txt
 UK - YORK/rallen&sboggin.txt
+UK - YORK/rcotton.txt
+UK - YORK/rfielding.txt
+UK - YORK/rjones.txt
 UK - YORK/rmitchell&ddavis.txt
+UK - YORK/sball.txt
+UK - YORK/sclark.txt
+UK - YORK/sevans.txt
+UK - YORK/sgeorge.txt
+UK - YORK/swatkins.txt
 UK - YORK/tbaker&rbaker.txt
+UK - YORK/tharlow.txt
+UK - YORK/tlaxton.txt
+UK - YORK/tlois.txt
+UK - YORK/tphillips.txt
 UK - YORK/v&ppeterson.txt
+UK - YORK/vlock.txt
+UK - YORK/vpriestly.txt
+UK - YORK/wevans.txt
+UK - YORK OUTLYING/YORK98_AJohnson.txt
+UK - YORK OUTLYING/YORK98_BThompson.txt
 UK - YORK OUTLYING/YORK98_C&J_Clarke.txt
-set(['[3]', '[005]', '[006]'])
+        UK - YORK OUTLYING/YORK98_C&J_Clarke_006.txt
+        UK - YORK OUTLYING/YORK98_C&J_Clarke_005.txt
+UK - YORK OUTLYING/YORK98_FCollins.txt
+UK - YORK OUTLYING/YORK98_GThompson.txt
+UK - YORK OUTLYING/YORK98_JFletcher.txt
+UK - YORK OUTLYING/YORK98_MAllen.txt
+UK - YORK OUTLYING/YORK98_NPeake.txt
 UK - YORK OUTLYING/YORK98_R&M_Draper.txt
-set(['[018]', '[017]'])
+        UK - YORK OUTLYING/YORK98_R&M_Draper_018.txt
+        UK - YORK OUTLYING/YORK98_R&M_Draper_017.txt

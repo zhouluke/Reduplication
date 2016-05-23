@@ -28,16 +28,26 @@ def writeOut(outFileNm,text):
 	outFile.write(text)
 	outFile.close()
 
+def mkOutFileNm(inFileNm):
+	
+	outFileNm = inFileNm[inFileNm.index('/')+1:]
+	#outFileNm = outDir + "/" + nmWithoutDir
+	return outFileNm
+
 ###############################################
 
 # Precondition: assumes interviewer tags have already been removed
-def filterBySpeakers(text,tagKillingFn):
+def filterBySpeakers(text,tagKillingFn,openTag,closeTag):
 
-	openTag = r'\['
-	closeTag = r'\]'
+	# Regex-safe versions of the open/close tags
+	openTagRgx = '\\' + openTag
+	closeTagRgx = '\\' + closeTag
 
-	remTags = re.findall(r'\[(\d+)\]',text)
-	if not remTags:	# cannot find the multiple speakers
+	rgxForIDs = openTagRgx + r'\/?(\d+)' + closeTagRgx	# e.g., \[045\] -> 045
+	#print rgxForIDs
+
+	remTags = re.findall(rgxForIDs,text)
+	if not remTags:	# cannot speaker tags
 		return None
 
 	remTags = set(remTags)
@@ -45,8 +55,9 @@ def filterBySpeakers(text,tagKillingFn):
 
 	# Placeholders to assist with the find & replace process
 	SPKR_TMP = 'PLACEHOLDER'
-	NONSPKR_TMP = '[8]'	# something that would get pruned by tagKillingFn
-	NONSPKR_TMP_REGEX = '\[8\]'
+	NONSPKR_TMP = openTag + '8' + closeTag	# something that would get pruned by tagKillingFn
+	NONSPKR_TMP_RGX = openTagRgx + '8' + closeTagRgx
+
 
 	# Dictionary to map speaker IDs to filtered transcripts 
 	filtered = {}	 
@@ -54,15 +65,16 @@ def filterBySpeakers(text,tagKillingFn):
 	for spkID in remTags:
 		
 		myTag = openTag+spkID+closeTag
+		myTagRgx = openTagRgx+spkID+closeTagRgx
 
-		textCpy = re.sub(myTag,SPKR_TMP,text)	
-		textCpy = re.sub(r'\[(\d+)\]',NONSPKR_TMP,textCpy)	
-		textCpy = re.sub(SPKR_TMP,'['+spkID+']',textCpy)
+		textCpy = re.sub(myTagRgx,SPKR_TMP,text)	# protects ID of target spaker
+		textCpy = re.sub(rgxForIDs,NONSPKR_TMP,textCpy)	# renames non-targets
+		textCpy = re.sub(SPKR_TMP,myTag,textCpy)	# restores target speaker
 
 		textCpy = tagKillingFn(textCpy)
 
 		# Check that the filtering really killed all other speakers
-		lingerers = re.findall(NONSPKR_TMP_REGEX,text)
+		lingerers = re.findall(NONSPKR_TMP_RGX,text)
 		if lingerers:
 			print "WARNING! Other speakers found in filtered transcript for speaker " + spkID
 			for x in lingerers:
@@ -76,11 +88,11 @@ def filterBySpeakers(text,tagKillingFn):
 
 ###############################################
 
-# Reads in a single file like '<inDir>/YORK/lol.txt', removes tags and other
-# nasty things, and then writes the modified version to '<outDir>/YORK/lol.txt'
-# Returns: 	0 if there is only one speaker in this file; 
-#			1 if the contents of this file are empty;
-# 			the name of the speaker file if there are multiple speakers.
+def normalizeTxt(text):
+	return text
+
+# Reads in a single file like '<inDir>/YORK/lol.txt',
+# then removes tags and normalizes the texts.
 def doOneFile(textFile,outDir,tagKillingFn):
 
 	inFile = open(textFile, 'r')
@@ -117,11 +129,3 @@ def doOneFile(textFile,outDir,tagKillingFn):
 	text = re.sub(r" +",r" ",text) 
 
 	return text
-
-
-def mkOutFileNm(inFileNm):
-	
-	outFileNm = inFileNm[inFileNm.index('/')+1:]
-	#outFileNm = outDir + "/" + nmWithoutDir
-
-	return outFileNm

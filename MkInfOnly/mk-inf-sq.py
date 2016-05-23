@@ -21,16 +21,23 @@ outDir = sys.argv[2]
 multiSpkrs = []	# Keeps track of the filenames with '&' in them
 
 
+######################################
+# HELPER FUNCTIONS
+######################################
+
 def killSqTags(text):
 
 	# e.g., '[3] ... [003]' -> '[003]'
 	text = re.sub(r"\[[^0]\d*\].*?(\[0)",r"\1",text) 
 
 	# e.g., '[3] ... (tape ends)' -> '(tape ends)'
-	text = re.sub(r"\[[^0]\d*\].*?(\(|{(T|t)ape)",r"\1",text) 
+	text = re.sub(r"\[[^0]\d*\].*?((\(|{)(T|t)ape)",r"\1",text) 
 
 	# e.g., '[3] ... (Interview ends)' -> '(Interview ends)'
-	text = re.sub(r"\[[^0]\d*\].*?(\(|{(I|i)nterview)",r"\1",text) 
+	text = re.sub(r"\[[^0]\d*\].*?((\(|{)(I|i)nterview)",r"\1",text) 
+
+	# e.g., '[3] ... [4]' -> ''
+	text = re.sub(r"\[[^0]\d*\].*?\[[^0]\d*\]","",text) 
 
 	return text
 
@@ -60,14 +67,14 @@ for textFile in helpers.findFiles(inDir, '*.txt'):
 		fnBase = outFilePath[:-4]
 		#print fnBase
 
-		filtered = helpers.filterBySpeakers(text,killSqTags)
+		filtered = helpers.filterBySpeakers(text,killSqTags,'[',']')
 
 		# Writes filtered transcripts into new files (one per speaker)
 		if filtered:
 			for spkID, transcr in filtered.iteritems():
-				newFileNm = outFilePath+"_"+str(spkID)+".txt"
+				newFileNm = fnBase+"_"+str(spkID)+".txt"
 				helpers.writeOut(newFileNm, transcr)
-				print "\t" + newFileNm
+				print "\t" + helpers.mkOutFileNm(newFileNm)
 
 
 '''
