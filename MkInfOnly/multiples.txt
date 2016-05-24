@@ -44,7 +44,7 @@ UK - CUMNOCK/E.Ham&C.Mac.txt
 UK - CUMNOCK/E.Muir.txt
 UK - CUMNOCK/E.Stevenson.txt
 UK - CUMNOCK/F.Bell.txt
-UK - CUMNOCK/G&N.Nesbit.txt
+UK - CUMNOCK/G&N.Nesbit.txt -- Line 217: [02]4 -> [024]
         tmpUK/UK - CUMNOCK/G&N.Nesbit_02.txt
         tmpUK/UK - CUMNOCK/G&N.Nesbit_024.txt
         tmpUK/UK - CUMNOCK/G&N.Nesbit_023.txt
@@ -54,18 +54,17 @@ UK - CUMNOCK/I&E.Ferguson.txt
         tmpUK/UK - CUMNOCK/I&E.Ferguson_01.txt
         tmpUK/UK - CUMNOCK/I&E.Ferguson_021.txt
         tmpUK/UK - CUMNOCK/I&E.Ferguson_022.txt
-UK - CUMNOCK/J&S.Wallace&E.Campbell.txt
+UK - CUMNOCK/J&S.Wallace&E.Campbell.txt -- Line 995: [0122] -> [012]
         tmpUK/UK - CUMNOCK/J&S.Wallace&E.Campbell_012.txt
         tmpUK/UK - CUMNOCK/J&S.Wallace&E.Campbell_013.txt
         tmpUK/UK - CUMNOCK/J&S.Wallace&E.Campbell_014.txt
-        tmpUK/UK - CUMNOCK/J&S.Wallace&E.Campbell_0122.txt
 UK - CUMNOCK/J.Dewar&M.Harris.txt
         tmpUK/UK - CUMNOCK/J.Dewar&M.Harris_008.txt
         tmpUK/UK - CUMNOCK/J.Dewar&M.Harris_007.txt
 UK - CUMNOCK/J.Scott.txt
 UK - CUMNOCK/J.Welsh.txt
 UK - CUMNOCK/K.Murphy.txt
-UK - CUMNOCK/M&E.Rae.txt
+UK - CUMNOCK/M&E.Rae.txt -- Line 10: [02] -> [002]; Line 246: [0-03] -> [003]
         tmpUK/UK - CUMNOCK/M&E.Rae_02.txt
         tmpUK/UK - CUMNOCK/M&E.Rae_002.txt
         tmpUK/UK - CUMNOCK/M&E.Rae_003.txt
@@ -250,11 +249,16 @@ UK - WHEATLEY HILL/rdickson.txt
 UK - WHEATLEY HILL/scotton.txt
 UK - WHEATLEY HILL/sdavison.txt
 UK - YORK/a&ljackson.txt
+        UK - YORK/a&ljackson_082.txt
+        UK - YORK/a&ljackson_081.txt
 UK - YORK/acork.txt
 UK - YORK/astone.txt
 UK - YORK/bhamilton.txt
 UK - YORK/blowe.txt
 UK - YORK/c&r&cbeale.txt
+        UK - YORK/c&r&cbeale_065.txt
+        UK - YORK/c&r&cbeale_064.txt
+        UK - YORK/c&r&cbeale_066.txt
 UK - YORK/cbeckett.txt
 UK - YORK/cbiggs.txt
 UK - YORK/cgiles.txt
@@ -265,11 +269,22 @@ UK - YORK/dburns.txt
 UK - YORK/dcrisp.txt
 UK - YORK/dford.txt
 UK - YORK/dtomlins&btomlins.txt
+        UK - YORK/dtomlins&btomlins_038.txt
+        UK - YORK/dtomlins&btomlins_039.txt
 UK - YORK/dwallis.txt
 UK - YORK/e&mmichaels.txt
+        UK - YORK/e&mmichaels_03.txt
+        UK - YORK/e&mmichaels_01.txt
+        UK - YORK/e&mmichaels_0931.txt
+        UK - YORK/e&mmichaels_0032.txt
+        UK - YORK/e&mmichaels_032.txt
+        UK - YORK/e&mmichaels_031.txt
 UK - YORK/eburritt.txt
 UK - YORK/echapman.txt
 UK - YORK/g&s&l.donald.txt
+        UK - YORK/g&s&l.donald_047.txt
+        UK - YORK/g&s&l.donald_046.txt
+        UK - YORK/g&s&l.donald_045.txt
 UK - YORK/ggreen.txt
 UK - YORK/gthomas.txt
 UK - YORK/gwalton.txt
@@ -278,7 +293,11 @@ UK - YORK/hdaniels.txt
 UK - YORK/hstainton.txt
 UK - YORK/hughphilips.txt
 UK - YORK/j&i.robinson.txt
+        UK - YORK/j&i.robinson_077.txt
+        UK - YORK/j&i.robinson_078.txt
 UK - YORK/j&rslater.txt
+        UK - YORK/j&rslater_050.txt
+        UK - YORK/j&rslater_051.txt
 UK - YORK/jderby.txt
 UK - YORK/jhornsea.txt
 UK - YORK/jlowe.txt
@@ -307,22 +326,35 @@ UK - YORK/nthomas.txt
 UK - YORK/ocavell.txt
 UK - YORK/pgregory.txt
 UK - YORK/r&msimpson.txt
+        UK - YORK/r&msimpson_054.txt
+        UK - YORK/r&msimpson_053.txt
 UK - YORK/rallen&sboggin.txt
+        UK - YORK/rallen&sboggin_058.txt
+        UK - YORK/rallen&sboggin_059.txt
+        UK - YORK/rallen&sboggin_0598.txt
 UK - YORK/rcotton.txt
 UK - YORK/rfielding.txt
 UK - YORK/rjones.txt
 UK - YORK/rmitchell&ddavis.txt
+        UK - YORK/rmitchell&ddavis_061.txt
+        UK - YORK/rmitchell&ddavis_060.txt
+        UK - YORK/rmitchell&ddavis_0660.txt
 UK - YORK/sball.txt
 UK - YORK/sclark.txt
 UK - YORK/sevans.txt
 UK - YORK/sgeorge.txt
 UK - YORK/swatkins.txt
 UK - YORK/tbaker&rbaker.txt
+        UK - YORK/tbaker&rbaker_012.txt
+        UK - YORK/tbaker&rbaker_021.txt
+        UK - YORK/tbaker&rbaker_022.txt
 UK - YORK/tharlow.txt
 UK - YORK/tlaxton.txt
 UK - YORK/tlois.txt
 UK - YORK/tphillips.txt
 UK - YORK/v&ppeterson.txt
+        UK - YORK/v&ppeterson_055.txt
+        UK - YORK/v&ppeterson_056.txt
 UK - YORK/vlock.txt
 UK - YORK/vpriestly.txt
 UK - YORK/wevans.txt

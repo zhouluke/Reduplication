@@ -43,7 +43,7 @@ def filterBySpeakers(text,tagKillingFn,openTag,closeTag):
 	openTagRgx = '\\' + openTag
 	closeTagRgx = '\\' + closeTag
 
-	rgxForIDs = openTagRgx + r'\/?(\d+)' + closeTagRgx	# e.g., \[045\] -> 045
+	rgxForIDs = openTagRgx + r'(\d+)' + closeTagRgx	# e.g., \[045\] -> 045
 	#print rgxForIDs
 
 	remTags = re.findall(rgxForIDs,text)
@@ -72,6 +72,8 @@ def filterBySpeakers(text,tagKillingFn,openTag,closeTag):
 		textCpy = re.sub(SPKR_TMP,myTag,textCpy)	# restores target speaker
 
 		textCpy = tagKillingFn(textCpy)
+
+		textCpy = re.sub(r" +",r" ",textCpy)	# collapses extra spaces into one
 
 		# Check that the filtering really killed all other speakers
 		lingerers = re.findall(NONSPKR_TMP_RGX,text)

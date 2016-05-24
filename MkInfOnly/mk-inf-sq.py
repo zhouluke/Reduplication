@@ -48,9 +48,11 @@ def killSqTags(text):
 
 print ("\nFILES GENERATED:\n")
 
+tagKillFn = killAngTags
+
 for textFile in helpers.findFiles(inDir, '*.txt'):
 
-	text = helpers.doOneFile(textFile,outDir,killSqTags)
+	text = helpers.doOneFile(textFile,outDir,tagKillFn)
 
 	# Output file
 	outFileNm = helpers.mkOutFileNm(textFile)
@@ -67,7 +69,7 @@ for textFile in helpers.findFiles(inDir, '*.txt'):
 		fnBase = outFilePath[:-4]
 		#print fnBase
 
-		filtered = helpers.filterBySpeakers(text,killSqTags,'[',']')
+		filtered = helpers.filterBySpeakers(text,tagKillFn,'[',']')
 
 		# Writes filtered transcripts into new files (one per speaker)
 		if filtered:

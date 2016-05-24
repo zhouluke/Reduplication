@@ -36,14 +36,40 @@ def killAngTags(text):
 # MAIN METHOD
 ######################################
 
+print ("\nFILES GENERATED:\n")
+
+tagKillFn = killAngTags
+
 for textFile in helpers.findFiles(inDir, '*.txt'):
 
-	result = helpers.doOneFile(textFile,outDir,killAngTags)
+	text = helpers.doOneFile(textFile,outDir,tagKillFn)
 
-	if result!=0:
-		multiSpkrs.append(result)
+	# Output file
+	outFileNm = helpers.mkOutFileNm(textFile)
+	outFilePath = outDir + "/" + outFileNm
+	print outFileNm
 
+	helpers.writeOut(outFilePath,text)
 
+	# If there are multiple speakers in the file
+	if '&' in outFileNm or 'All_' in outFileNm:
+		
+		multiSpkrs.append(outFileNm)
+		
+		fnBase = outFilePath[:-4]
+		#print fnBase
+
+		filtered = helpers.filterBySpeakers(text,tagKillFn,'<','>')
+
+		# Writes filtered transcripts into new files (one per speaker)
+		if filtered:
+			for spkID, transcr in filtered.iteritems():
+				newFileNm = fnBase+"_"+str(spkID)+".txt"
+				helpers.writeOut(newFileNm, transcr)
+				print "\t" + helpers.mkOutFileNm(newFileNm)
+
+'''
 print ("THE FOLLOWING FILES MAY HAVE MULTIPLE SPEAKERS. PLEASE DO THEM MANUALLY:")
 for fn in multiSpkrs:
 	print (fn)
+'''
